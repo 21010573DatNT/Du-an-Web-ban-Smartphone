@@ -6,7 +6,7 @@ window.onload = function () {
     khoiTao();
 
     // thêm tags (từ khóa) vào khung tìm kiếm
-    var tags = ["Samsung", "iPhone", "Huawei", "Oppo", "Mobi"];
+    var tags = ["Samsung", "iPhone", "Huawei", "Oppo", "Tecno"];
     for (var t of tags) addTags(t, "index.html?search=" + t, true);
 
     phanTich_URL_chiTietSanPham();
@@ -254,6 +254,6 @@ function suggestion(){
     // ====== Hiển thị 5 sản phẩm lên web ====== 
     if(sanPhamTuongTu.length) {
         let div = document.getElementById('goiYSanPham');
-        addKhungSanPham(sanPhamTuongTu, 'Bạn có thể thích', ['#434aa8', '#ec1f1f'], div);
+        addKhungSanPham(sanPhamTuongTu, 'Bạn có thể thích', ['#8BC6B9', '#00483d'], div);
     }
 }
