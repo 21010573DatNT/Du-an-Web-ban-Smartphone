@@ -709,13 +709,38 @@ function addPlc() {
     <div class="plc">
         <section>
             <ul class="flexContain">
-                <li>Giao hàng hỏa tốc trong 1 giờ</li>
-                <li>Thanh toán linh hoạt: tiền mặt, visa / master, trả góp</li>
-                <li>Trải nghiệm sản phẩm tại nhà</li>
-                <li>Lỗi đổi tại nhà trong 1 ngày</li>
-                <li>Hỗ trợ suốt thời gian sử dụng.
-                    <br>Hotline:
-                    <a href="tel:12345678" style="color: #288ad6;">12345678</a>
+                <li>
+                <h3>Ưu đãi đặc biệt</h3>
+                <br>Mua hàng trả góp
+                <br>Hướng dẫn đặt hàng và thanh toán
+                <br>Tra cứu đơn hàng
+                <br>Chính sách bảo hành
+                <br>Phạm vi, điều khoản gói bảo hành mở rộng
+                <br>Chính sách bảo mật
+                <br>Chính sách giải quyết khiếu nại
+                <br>Điều khoản mua bán hàng hóa
+                <br>Câu hỏi thường gặp
+                </li>
+                <li>
+                <h3>Thông tin liên hệ</h3>
+                <br>Bán hàng Online
+                <br>Chăm sóc khách hàng
+                <br>Hợp tác kinh doanh
+                <br>Tra cứu bảo hành
+                </li>
+                <li>
+                <h3>Hệ thống 127 siêu thị trên toàn quốc</h3>
+                <br>Danh sách 127 siêu thị trên toàn quốc
+                </li>
+                <li>
+                <h3>Tổng đài</h3>
+                <br>Hotline:
+                <a href="tel:12345678" style="color: #288ad6;">12345678</a>
+                </li>
+                <li>
+                <h3>Thanh toán miễn phí</h3>
+                    <br><img src="/img/footer/1.png">
+                    
                 </li>
             </ul>
         </section>

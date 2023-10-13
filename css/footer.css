@@ -1,11 +1,14 @@
 /* Plc */
 .plc {
-	background: #dae2dc;
+	background: #00483d;
 	/* overflow: hidden; */
+	/* border-radius: 11px; */
 	font-size: 15px;
-	color: #333;
+	color: #ddd;
+	padding: 10px;
 	border-top: 1px solid #bbb;
 	border-bottom: 1px solid #bbb;
+	font-size: 15px;
 }
 
 .plc ul {
@@ -18,7 +21,7 @@
 	box-sizing: border-box;
 	padding: 5px 10px;
 	line-height: 20px;
-	border-right: solid 1px #bbb;
+	
 	margin: 5px 0;
 }
 
