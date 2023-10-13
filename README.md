@@ -1,4 +1,4 @@
-# DoAn_Web1
+# DoAn_Web
 
 Đồ án môn web 1, web tĩnh, đề tài trang web bán điện thoại.
 
