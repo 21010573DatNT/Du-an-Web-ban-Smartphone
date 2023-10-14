@@ -1,8 +1,8 @@
 var list_products = [{
-    "name": "SamSung Galaxy J4+",
+    "name": "Samsung Galaxy S23 Ultra",
     "company": "Samsung",
-    "img": "img/products/samsung-galaxy-j4-plus-pink-400x400.jpg",
-    "price": "3.490.000",
+    "img": "img/products/samsung/Samsung Galaxy S23 Ultra1.jpg",
+    "price": "38.500.000",
     "star": 3,
     "rateCount": 26,
     "promo": {
@@ -22,10 +22,10 @@ var list_products = [{
     },
     "masp": "Sam0"
 }, {
-    "name": "Xiaomi Mi 8 Lite",
+    "name": "Xiaomi 13T Pro 5G",
     "company": "Xiaomi",
-    "img": "img/products/xiaomi-mi-8-lite-black-1-600x600.jpg",
-    "price": "6.690.000",
+    "img": "img/products/xiaomi/xiami-13t-xanh-la-01_1_1.jpg",
+    "price": "13.690.000",
     "star": 0,
     "rateCount": 0,
     "promo": {
@@ -45,10 +45,10 @@ var list_products = [{
     },
     "masp": "Xia0"
 }, {
-    "name": "Oppo F9",
+    "name": "OPPO Find N2 Flip",
     "company": "Oppo",
-    "img": "img/products/oppo-f9-red-600x600.jpg",
-    "price": "7.690.000",
+    "img": "img/products/oppo/OPPO Find N2 Flip.jpg",
+    "price": "27.690.000",
     "star": 5,
     "rateCount": 188,
     "promo": {
@@ -68,10 +68,10 @@ var list_products = [{
     },
     "masp": "Opp0"
 }, {
-    "name": "Nokia 5.1 Plus",
+    "name": "Nokia X10 5G",
     "company": "Nokia",
-    "img": "img/products/nokia-51-plus-black-18thangbh-400x400.jpg",
-    "price": "4.790.000",
+    "img": "img/products/nokia/Nokia X10 5G.jpg",
+    "price": "10.790.000",
     "star": 5,
     "rateCount": 7,
     "promo": {
@@ -91,10 +91,10 @@ var list_products = [{
     },
     "masp": "Nok0"
 }, {
-    "name": "Samsung Galaxy A8+ (2018)",
+    "name": "Samsung Galaxy Z Flip5",
     "company": "Samsung",
-    "img": "img/products/samsung-galaxy-a8-plus-2018-gold-600x600.jpg",
-    "price": "11.990.000",
+    "img": "img/products/samsung/Samsung Galaxy Z Flip5.jpg",
+    "price": "27.990.000",
     "star": 0,
     "rateCount": 0,
     "promo": {
@@ -114,10 +114,10 @@ var list_products = [{
     },
     "masp": "Sam1"
 }, {
-    "name": "iPhone X 256GB Silver",
+    "name": "iPhone 15 Pro max",
     "company": "Apple",
-    "img": "img/products/iphone-x-256gb-silver-400x400.jpg",
-    "price": "31.990.000",
+    "img": "img/products/iphone/iphone-15-pro-max-1tb.jpg",
+    "price": "48.990.000",
     "star": 4,
     "rateCount": 10,
     "promo": {
@@ -137,10 +137,10 @@ var list_products = [{
     },
     "masp": "App0"
 }, {
-    "name": "Oppo A3s 32GB",
+    "name": "OPPO Find N2",
     "company": "Oppo",
-    "img": "img/products/oppo-a3s-32gb-600x600.jpg",
-    "price": "4.690.000",
+    "img": "img/products/oppo/OPPO Find N2.jpg",
+    "price": "43.690.000",
     "star": 0,
     "rateCount": 0,
     "promo": {
@@ -160,10 +160,10 @@ var list_products = [{
     },
     "masp": "Opp1"
 }, {
-    "name": "Samsung Galaxy J8",
+    "name": "Samsung Galaxy Z Fold5",
     "company": "Samsung",
-    "img": "img/products/samsung-galaxy-j8-600x600-600x600.jpg",
-    "price": "6.290.000",
+    "img": "img/products/samsung/Samsung Galaxy Z Fold5.jpg",
+    "price": "49.290.000",
     "star": 0,
     "rateCount": 0,
     "promo": {
@@ -183,10 +183,10 @@ var list_products = [{
     },
     "masp": "Sam2"
 }, {
-    "name": "iPad 2018 Wifi 32GB",
+    "name": "iPhone 15 Pro",
     "company": "Apple",
-    "img": "img/products/ipad-wifi-32gb-2018-thumb-600x600.jpg",
-    "price": "8.990.000",
+    "img": "img/products/iphone/iphone-15-pro_2__2.jpg",
+    "price": "39.990.000",
     "star": 0,
     "rateCount": 0,
     "promo": {
@@ -206,10 +206,10 @@ var list_products = [{
     },
     "masp": "App1"
 }, {
-    "name": "iPhone 7 Plus 32GB",
+    "name": "iPhone 15 Plus",
     "company": "Apple",
-    "img": "img/products/iphone-7-plus-32gb-hh-600x600.jpg",
-    "price": "17.000.000",
+    "img": "img/products/iphone/iphone-15-plus-256gb-color-green-image.jpg",
+    "price": "34.500.000",
     "star": 0,
     "rateCount": 0,
     "promo": {
@@ -229,9 +229,9 @@ var list_products = [{
     },
     "masp": "App2"
 }, {
-    "name": "Xiaomi Mi 8",
+    "name": "Xiaomi 13T",
     "company": "Xiaomi",
-    "img": "img/products/xiaomi-mi-8-1-600x600.jpg",
+    "img": "img/products/xiaomi/Xiaomi 13T.jpg",
     "price": "12.990.000",
     "star": 0,
     "rateCount": 0,
@@ -252,10 +252,10 @@ var list_products = [{
     },
     "masp": "Xia1"
 }, {
-    "name": "Mobiistar X",
-    "company": "Mobiistar",
-    "img": "img/products/mobiistar-x-3-600x600.jpg",
-    "price": "3.490.000",
+    "name": "TECNO Camon 20 Pro",
+    "company": "Tecno",
+    "img": "img/products/tecno/TECNO Camon 20 Pro.jpg",
+    "price": "2.490.000",
     "star": 4,
     "rateCount": 16,
     "promo": {
@@ -273,12 +273,12 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
         "battery": "3000 mAh"
     },
-    "masp": "Mob0"
+    "masp": "Tec0"
 }, {
-    "name": "Mobiistar Zumbo S2 Dual",
-    "company": "Mobiistar",
-    "img": "img/products/mobiistar-zumbo-s2-dual-300x300.jpg",
-    "price": "2.850.000",
+    "name": "TECNO Camon 20",
+    "company": "Tecno",
+    "img": "img/products/tecno/TECNO Camon 20.jpg",
+    "price": "22.850.000",
     "star": 4,
     "rateCount": 104,
     "promo": {
@@ -296,12 +296,12 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 128 GB",
         "battery": "3000 mAh"
     },
-    "masp": "Mob1"
+    "masp": "Tec1"
 }, {
-    "name": "Mobiistar E Selfie",
-    "company": "Mobiistar",
-    "img": "img/products/mobiistar-e-selfie-300-1copy-600x600.jpg",
-    "price": "2.490.000",
+    "name": "Tecno Pop 5 Pro",
+    "company": "Tecno",
+    "img": "img/products/tecno/Tecno Pop 5 Pro.jpg",
+    "price": "21.490.000",
     "star": 4,
     "rateCount": 80,
     "promo": {
@@ -319,12 +319,12 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 128 GB",
         "battery": "3900 mAh"
     },
-    "masp": "Mob2"
+    "masp": "Tec2"
 }, {
-    "name": "Mobiistar B310",
-    "company": "Mobiistar",
-    "img": "img/products/mobiistar-b310-orange-600x600.jpg",
-    "price": "260.000",
+    "name": "TECNO POVA 5",
+    "company": "Tecno",
+    "img": "img/products/tecno/TECNO POVA 5.jpg",
+    "price": "29.260.000",
     "star": 5,
     "rateCount": 87,
     "promo": {
@@ -342,12 +342,12 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 32 GB",
         "battery": "800 mAh"
     },
-    "masp": "Mob3"
+    "masp": "Tec3"
 }, {
-    "name": "Xiaomi Redmi Note 5",
+    "name": "Redmi Note 11R",
     "company": "Xiaomi",
-    "img": "img/products/xiaomi-redmi-note-5-pro-600x600.jpg",
-    "price": "5.690.000",
+    "img": "img/products/xiaomi/Redmi Note 11R.jpg",
+    "price": "9.690.000",
     "star": 4,
     "rateCount": 372,
     "promo": {
@@ -367,10 +367,10 @@ var list_products = [{
     },
     "masp": "Xia2"
 }, {
-    "name": "Xiaomi Redmi 5 Plus 4GB",
+    "name": "Xiaomi 11 Lite 5G NE",
     "company": "Xiaomi",
-    "img": "img/products/xiaomi-redmi-5-plus-600x600.jpg",
-    "price": "4.790.000",
+    "img": "img/products/xiaomi/Xiaomi 11 Lite 5G NE.jpg",
+    "price": "2.790.000",
     "star": 4,
     "rateCount": 347,
     "promo": {
@@ -390,10 +390,10 @@ var list_products = [{
     },
     "masp": "Xia3"
 }, {
-    "name": "Huawei Mate 20 Pro",
+    "name": "Huawei Mate Xs 2",
     "company": "Huawei",
-    "img": "img/products/huawei-mate-20-pro-green-600x600.jpg",
-    "price": "21.990.000",
+    "img": "img/products/huawei/Huawei Mate Xs 2.jpg",
+    "price": "39.990.000",
     "star": 5,
     "rateCount": 4,
     "promo": {
@@ -413,10 +413,10 @@ var list_products = [{
     },
     "masp": "Hua0"
 }, {
-    "name": "Huawei Nova 3",
+    "name": "Huawei Pocket S",
     "company": "Huawei",
-    "img": "img/products/huawei-nova-3-2-600x600.jpg",
-    "price": "9.990.000",
+    "img": "img/products/huawei/Huawei Pocket S.jpg",
+    "price": "29.990.000",
     "star": 4,
     "rateCount": 22,
     "promo": {
@@ -436,10 +436,10 @@ var list_products = [{
     },
     "masp": "Hua1"
 }, {
-    "name": "Huawei Y5 2017",
+    "name": "Huawei Nova 7 SE",
     "company": "Huawei",
-    "img": "img/products/huawei-y5-2017-300x300.jpg",
-    "price": "1.990.000",
+    "img": "img/products/huawei/Huawei Nova 7 SE.jpg",
+    "price": "2.990.000",
     "star": 5,
     "rateCount": 54,
     "promo": {
@@ -459,9 +459,9 @@ var list_products = [{
     },
     "masp": "Hua2"
 }, {
-    "name": "Nokia black future",
+    "name": "Nokia G11 Plus 3GB 32GB",
     "company": "Nokia",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/22701/dien-thoai-di-dong-Nokia-1280-dienmay.com-l.jpg",
+    "img": "img/products/nokia/Nokia G11 Plus 3GB 32GB.jpg",
     "price": "999.999.000",
     "star": 5,
     "rateCount": 9999,
@@ -482,10 +482,10 @@ var list_products = [{
     },
     "masp": "Nok1"
 }, {
-    "name": "Samsung Galaxy A7 (2018)",
+    "name": "Samsung Galaxy S23 Ultral",
     "company": "Samsung",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/194327/samsung-galaxy-a7-2018-128gb-black-400x400.jpg",
-    "price": "8.990.000",
+    "img": "img/products/samsung/Samsung Galaxy S23 Ultra.jpg",
+    "price": "38.990.000",
     "star": 4,
     "rateCount": 22,
     "promo": {
@@ -505,10 +505,10 @@ var list_products = [{
     },
     "masp": "Sam3"
 }, {
-    "name": "Realme 2 Pro 8GB/128GB",
+    "name": "Realme GT Neo 5",
     "company": "Realme",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/192002/oppo-realme-2-pro-black-600x600.jpg",
-    "price": "6.990.000",
+    "img": "img/products/realme/Realme GT Neo 5.jpg",
+    "price": "2.990.000",
     "star": 5,
     "rateCount": 16,
     "promo": {
@@ -528,10 +528,10 @@ var list_products = [{
     },
     "masp": "Rea0"
 }, {
-    "name": "Realme 2 4GB/64GB",
+    "name": " realme C55",
     "company": "Realme",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/193462/realme-2-4gb-64gb-docquyen-600x600.jpg",
-    "price": "4.490.000",
+    "img": "img/products/realme/realme C55.jpg",
+    "price": "14.490.000",
     "star": 5,
     "rateCount": 7,
     "promo": {
@@ -551,10 +551,10 @@ var list_products = [{
     },
     "masp": "Rea1"
 }, {
-    "name": "Realme C1",
+    "name": "Realme 9",
     "company": "Realme",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/193286/realme-c1-black-600x600.jpg",
-    "price": "2.490.000",
+    "img": "img/products/realme/Realme 9.jpg",
+    "price": "12.490.000",
     "star": 4,
     "rateCount": 4,
     "promo": {
@@ -574,10 +574,10 @@ var list_products = [{
     },
     "masp": "Rea2"
 }, {
-    "name": "Realme 2 Pro 4GB/64GB",
+    "name": "realme 10 Pro Plus",
     "company": "Realme",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/193464/realme-2-pro-4gb-64gb-blue-600x600.jpg",
-    "price": "5.590.000",
+    "img": "img/products/realme/realme 10 Pro Plus.jpg",
+    "price": "15.590.000",
     "star": 4,
     "rateCount": 11,
     "promo": {
@@ -597,10 +597,10 @@ var list_products = [{
     },
     "masp": "Rea3"
 }, {
-    "name": "Philips E331",
-    "company": "Philips",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/139742/philips-e331-xenium-300-300x300.jpg",
-    "price": "890.000",
+    "name": " OnePlus V Fold",
+    "company": "OnePlus",
+    "img": "img/products/oneplus/OnePlus V Fold.jpg",
+    "price": "48.890.000",
     "star": 5,
     "rateCount": 6,
     "promo": {
@@ -618,12 +618,12 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 16 GB",
         "battery": "1600 mAh"
     },
-    "masp": "Phi0"
+    "masp": "One0"
 }, {
-    "name": "Philips S329",
-    "company": "Philips",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/143146/philips-s329-2-300x300.jpg",
-    "price": "2.390.000",
+    "name": "Oneplus Open",
+    "company": "OnePlus",
+    "img": "img/products/oneplus/Oneplus Open.jpg",
+    "price": "42.390.000",
     "star": 3,
     "rateCount": 30,
     "promo": {
@@ -641,12 +641,12 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 64 GB",
         "battery": "3000 mAh"
     },
-    "masp": "Phi1"
+    "masp": "One1"
 }, {
-    "name": "Philips E103",
-    "company": "Philips",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/73727/philips-e103-9-300x300.jpg",
-    "price": "260.000",
+    "name": "OnePlus 9 Pro",
+    "company": "OnePlus",
+    "img": "img/products/oneplus/OnePlus 9 Pro.jpg",
+    "price": "2.260.000",
     "star": 5,
     "rateCount": 126,
     "promo": {
@@ -664,11 +664,11 @@ var list_products = [{
         "microUSB": "Không",
         "battery": "1050 mAh"
     },
-    "masp": "Phi2"
+    "masp": "One2"
 }, {
-    "name": "Vivo V11",
+    "name": "vivo V25 5G 8GB 128GB",
     "company": "Vivo",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/188828/vivo-v11-600x600.jpg",
+    "img": "img/products/vivo/vivo V25 5G 8GB 128GB.jpg",
     "price": "10.990.000",
     "star": 0,
     "rateCount": 0,
@@ -689,9 +689,9 @@ var list_products = [{
     },
     "masp": "Viv0"
 }, {
-    "name": "Vivo V9",
+    "name": "vivo V25 Pro 8GB 128GB",
     "company": "Vivo",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/155047/vivo-v9-2-1-600x600-600x600.jpg",
+    "img": "img/products/vivo/vivo V25 Pro 8GB 128GB.jpg",
     "price": "7.490.000",
     "star": 5,
     "rateCount": 168,
@@ -712,9 +712,9 @@ var list_products = [{
     },
     "masp": "Viv1"
 }, {
-    "name": "Vivo Y85",
+    "name": "Vivo V27e 8GB 256GB",
     "company": "Vivo",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/156205/vivo-y85-red-docquyen-600x600.jpg",
+    "img": "img/products/vivo/Vivo V27e 8GB 256GB.jpg",
     "price": "4.990.000",
     "star": 4,
     "rateCount": 60,
@@ -735,9 +735,9 @@ var list_products = [{
     },
     "masp": "Viv2"
 }, {
-    "name": "Vivo Y71",
+    "name": "vivo X80",
     "company": "Vivo",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/158585/vivo-y71-docquyen-600x600.jpg",
+    "img": "img/products/vivo/vivo X80.jpg",
     "price": "3.290.000",
     "star": 4,
     "rateCount": 60,
@@ -758,10 +758,10 @@ var list_products = [{
     },
     "masp": "Viv3"
 }, {
-    "name": "Mobell M789",
-    "company": "Mobell",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/92016/mobell-m789-8-300x300.jpg",
-    "price": "550.000",
+    "name": "Nubia Neo 8GB",
+    "company": "Nubia",
+    "img": "img/products/nubia/Nubia Neo 8GB.jpg",
+    "price": "5.550.000",
     "star": 4,
     "rateCount": 37,
     "promo": {
@@ -779,12 +779,12 @@ var list_products = [{
         "microUSB": "Không",
         "battery": "1200 mAh"
     },
-    "masp": "Mobe0"
+    "masp": "Nub0"
 }, {
-    "name": "Mobell Rock 3",
-    "company": "Mobell",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/112837/mobell-rock-3-2-300x300.jpg",
-    "price": "590.000",
+    "name": "Nubia Red Magic 6R",
+    "company": "Nubia",
+    "img": "img/products/nubia/Nubia Red Magic 6R.jpg",
+    "price": "5.590.000",
     "star": 4,
     "rateCount": 58,
     "promo": {
@@ -802,12 +802,12 @@ var list_products = [{
         "microUSB": "Không",
         "battery": "5000 mAh"
     },
-    "masp": "Mobe1"
+    "masp": "Nub1"
 }, {
-    "name": "Mobell S60",
-    "company": "Mobell",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/193271/mobell-s60-red-1-600x600.jpg",
-    "price": "1.790.000",
+    "name": "Nubia Red Magic 6s Pro Cyborg",
+    "company": "Nubia",
+    "img": "img/products/nubia/Nubia Red Magic 6s Pro Cyborg.jpg",
+    "price": "19.790.000",
     "star": 0,
     "rateCount": 0,
     "promo": {
@@ -825,12 +825,12 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 32 GB",
         "battery": "2650 mAh"
     },
-    "masp": "Mobe2"
+    "masp": "Nub2"
 }, {
-    "name": "Itel P32",
-    "company": "Itel",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/186851/itel-p32-gold-600x600.jpg",
-    "price": "1.890.000",
+    "name": "ASUS ROG Phone 6 Batman",
+    "company": "Asus",
+    "img": "img/products/Asus/ASUS ROG Phone 6 Batman.jpg",
+    "price": "18.890.000",
     "star": 4,
     "rateCount": 12,
     "promo": {
@@ -848,12 +848,12 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 32 GB",
         "battery": "4000 mAh"
     },
-    "masp": "Ite0"
+    "masp": "Asu0"
 }, {
-    "name": "Itel A32F",
-    "company": "Itel",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/193990/itel-a32f-pink-gold-600x600.jpg",
-    "price": "1.350.000",
+    "name": " ASUS ROG Phone 6",
+    "company": "Asus",
+    "img": "img/products/Asus/ASUS ROG Phone 6.jpg",
+    "price": "13.350.000",
     "star": 5,
     "rateCount": 3,
     "promo": {
@@ -871,12 +871,12 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 32 GB",
         "battery": "2050 mAh"
     },
-    "masp": "Ite1"
+    "masp": "Asu1"
 }, {
-    "name": "Itel it2123",
-    "company": "Itel",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/146651/itel-it2123-d-300-300x300.jpg",
-    "price": "160.000",
+    "name": "ASUS ROG Phone 7 Ultimate",
+    "company": "Asus",
+    "img": "img/products/Asus/ASUS ROG Phone 7 Ultimate.jpg",
+    "price": "16.660.000",
     "star": 5,
     "rateCount": 302,
     "promo": {
@@ -894,12 +894,12 @@ var list_products = [{
         "microUSB": "Không",
         "battery": "1000 mAh"
     },
-    "masp": "Ite2"
+    "masp": "Asu2"
 }, {
-    "name": "Itel it2161",
-    "company": "Itel",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/193989/itel-it2161-600x600.jpg",
-    "price": "170.000",
+    "name": "ASUS ROG Phone 7",
+    "company": "Asus",
+    "img": "img/products/Asus/ASUS ROG Phone 7.jpg",
+    "price": "17.770.000",
     "star": 5,
     "rateCount": 33,
     "promo": {
@@ -917,12 +917,12 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 32 GB",
         "battery": "1000 mAh"
     },
-    "masp": "Ite3"
+    "masp": "Asu3"
 }, {
-    "name": "Coolpad N3D",
-    "company": "Coolpad",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/193504/coolpad-n3d-blue-600x600.jpg",
-    "price": "2.390.000",
+    "name": "HONOR X9A 5G",
+    "company": "Honor",
+    "img": "img/products/Honor/HONOR X9A 5G.jpg",
+    "price": "23.390.000",
     "star": 0,
     "rateCount": 0,
     "promo": {
@@ -940,12 +940,12 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 32 GB",
         "battery": "2500 mAh"
     },
-    "masp": "Coo0"
+    "masp": "Hon0"
 }, {
-    "name": "Coolpad N3",
-    "company": "Coolpad",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/193502/coolpad-n3-gray-1-600x600.jpg",
-    "price": "1.890.000",
+    "name": "Honor X8A",
+    "company": "Honor",
+    "img": "img/products/Honor/Honor X8A.jpg",
+    "price": "18.890.000",
     "star": 3,
     "rateCount": 3,
     "promo": {
@@ -963,12 +963,12 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 32 GB",
         "battery": "2300 mAh"
     },
-    "masp": "Coo1"
+    "masp": "Hon1"
 }, {
-    "name": "Coolpad N3 mini",
-    "company": "Coolpad",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/193503/coolpad-n3-mini-600x600.jpg",
-    "price": "1.390.000",
+    "name": "Honor X6A",
+    "company": "Honor",
+    "img": "img/products/Honor/Honor X6A.jpg",
+    "price": "19.390.000",
     "star": 4,
     "rateCount": 2,
     "promo": {
@@ -986,12 +986,12 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 32 GB",
         "battery": "2000 mAh"
     },
-    "masp": "Coo2"
+    "masp": "Hon2"
 }, {
-    "name": "HTC U12 life",
-    "company": "HTC",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/186397/htc-u12-life-1-600x600.jpg",
-    "price": "7.690.000",
+    "name": "Infinix Hot 30",
+    "company": "Infinix",
+    "img": "img/products/infinix/Infinix Hot 30.jpg",
+    "price": "17.690.000",
     "star": 4,
     "rateCount": 12,
     "promo": {
@@ -1009,12 +1009,12 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 512 GB",
         "battery": "3600 mAh"
     },
-    "masp": "HTC0"
+    "masp": "Inf0"
 }, {
-    "name": "Motorola Moto C 4G",
-    "company": "Motorola",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/109099/motorola-moto-c-4g-300-300x300.jpg",
-    "price": "1.290.000",
+    "name": "TCL 40SE",
+    "company": "TCL",
+    "img": "img/products/tcl/TCL 40SE.jpg",
+    "price": "19.290.000",
     "star": 4,
     "rateCount": 14,
     "promo": {
@@ -1032,17 +1032,17 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 32 GB",
         "battery": "2350 mAh"
     },
-    "masp": "Mot0"
+    "masp": "TCL0"
 }, {
-    "name": "iPhone Xr 128GB",
+    "name": "iPhone 15",
     "company": "Apple",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/191483/iphone-xr-128gb-red-600x600.jpg",
-    "price": "24.990.000",
+    "img": "img/products/iphone/vn_iphone_15_pink_pdp_image_position-1a_pink_color_2.jpg",
+    "price": "32.990.000",
     "star": 0,
     "rateCount": 0,
     "promo": {
         "name": "giareonline",
-        "value": "22.990.000"
+        "value": "31.990.000"
     },
     "detail": {
         "screen": "IPS LCD, 6.1', IPS LCD, 16 triệu màu",
@@ -1057,10 +1057,10 @@ var list_products = [{
     },
     "masp": "App3"
 }, {
-    "name": "iPhone 8 Plus 64GB",
+    "name": "iPhone 14 Pro Max",
     "company": "Apple",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/114110/iphone-8-plus-hh-600x600.jpg",
-    "price": "20.990.000",
+    "img": "img/products/iphone/t_m_18.jpg",
+    "price": "33.990.000",
     "star": 5,
     "rateCount": 230,
     "promo": {
@@ -1080,9 +1080,9 @@ var list_products = [{
     },
     "masp": "App4"
 }, {
-    "name": "iPhone 8 Plus 256GB",
+    "name": "iPhone 14 Pro",
     "company": "Apple",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/114114/iphone-8-plus-256gb-red-600x600.jpg",
+    "img": "img/products/iphone/b_c_1_1.jpg",
     "price": "25.790.000",
     "star": 5,
     "rateCount": 16,
@@ -1103,15 +1103,15 @@ var list_products = [{
     },
     "masp": "App5"
 }, {
-    "name": "iPhone Xr 64GB",
+    "name": "iPhone 14 Plus",
     "company": "Apple",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/190325/iphone-xr-black-400x460.png",
-    "price": "22.990.000",
+    "img": "img/products/iphone/photo_2022-09-28_21-58-56_5.jpg",
+    "price": "23.990.000",
     "star": 4,
     "rateCount": 5,
     "promo": {
         "name": "giareonline",
-        "value": "19.990.000"
+        "value": "23.990.000"
     },
     "detail": {
         "screen": "IPS LCD, 6.1', IPS LCD, 16 triệu màu",
@@ -1125,10 +1125,10 @@ var list_products = [{
     },
     "masp": "App6"
 }, {
-    "name": "Huawei Nova 2i",
+    "name": "Huawei Nova 9 SE",
     "company": "Huawei",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/157031/samsung-galaxy-a6-2018-2-600x600.jpg",
-    "price": "4.490.000",
+    "img": "img/products/huawei/Huawei Nova 9 SEe.jpg",
+    "price": "14.490.000",
     "star": 4,
     "rateCount": 804,
     "promo": {
