@@ -1,7 +1,7 @@
 var list_products = [{
     "name": "Samsung Galaxy S23 Ultra",
     "company": "Samsung",
-    "img": "img/products/samsung/Samsung Galaxy S23 Ultra1.jpg",
+    "img": "img/products/samsung/Samsung-Galaxy-S23-Ultra1.jpg",
     "price": "38.500.000",
     "star": 3,
     "rateCount": 26,
@@ -47,7 +47,7 @@ var list_products = [{
 }, {
     "name": "OPPO Find N2 Flip",
     "company": "Oppo",
-    "img": "img/products/oppo/OPPO Find N2 Flip.jpg",
+    "img": "img/products/oppo/OPPO-Find-N2-Flip.jpg",
     "price": "27.690.000",
     "star": 5,
     "rateCount": 188,
@@ -70,7 +70,7 @@ var list_products = [{
 }, {
     "name": "Nokia X10 5G",
     "company": "Nokia",
-    "img": "img/products/nokia/Nokia X10 5G.jpg",
+    "img": "img/products/nokia/Nokia-X10-5G.jpg",
     "price": "10.790.000",
     "star": 5,
     "rateCount": 7,
@@ -93,7 +93,7 @@ var list_products = [{
 }, {
     "name": "Samsung Galaxy Z Flip5",
     "company": "Samsung",
-    "img": "img/products/samsung/Samsung Galaxy Z Flip5.jpg",
+    "img": "img/products/samsung/Samsung-Galaxy-Z-Flip5.jpg",
     "price": "27.990.000",
     "star": 0,
     "rateCount": 0,
@@ -139,7 +139,7 @@ var list_products = [{
 }, {
     "name": "OPPO Find N2",
     "company": "Oppo",
-    "img": "img/products/oppo/OPPO Find N2.jpg",
+    "img": "img/products/oppo/OPPO-Find-N2.jpg",
     "price": "43.690.000",
     "star": 0,
     "rateCount": 0,
@@ -162,7 +162,7 @@ var list_products = [{
 }, {
     "name": "Samsung Galaxy Z Fold5",
     "company": "Samsung",
-    "img": "img/products/samsung/Samsung Galaxy Z Fold5.jpg",
+    "img": "img/products/samsung/Samsung-Galaxy-Z-Fold5.jpg",
     "price": "49.290.000",
     "star": 0,
     "rateCount": 0,
@@ -231,7 +231,7 @@ var list_products = [{
 }, {
     "name": "Xiaomi 13T",
     "company": "Xiaomi",
-    "img": "img/products/xiaomi/Xiaomi 13T.jpg",
+    "img": "img/products/xiaomi/Xiaomi-13T.jpg",
     "price": "12.990.000",
     "star": 0,
     "rateCount": 0,
@@ -254,7 +254,7 @@ var list_products = [{
 }, {
     "name": "TECNO Camon 20 Pro",
     "company": "Tecno",
-    "img": "img/products/tecno/TECNO Camon 20 Pro.jpg",
+    "img": "img/products/tecno/TECNO-Camon-20-Pro.jpg",
     "price": "2.490.000",
     "star": 4,
     "rateCount": 16,
@@ -277,7 +277,7 @@ var list_products = [{
 }, {
     "name": "TECNO Camon 20",
     "company": "Tecno",
-    "img": "img/products/tecno/TECNO Camon 20.jpg",
+    "img": "img/products/tecno/TECNO-Camon-20.jpg",
     "price": "22.850.000",
     "star": 4,
     "rateCount": 104,
@@ -300,7 +300,7 @@ var list_products = [{
 }, {
     "name": "Tecno Pop 5 Pro",
     "company": "Tecno",
-    "img": "img/products/tecno/Tecno Pop 5 Pro.jpg",
+    "img": "img/products/tecno/Tecno-Pop-5-Pro.jpg",
     "price": "21.490.000",
     "star": 4,
     "rateCount": 80,
@@ -323,7 +323,7 @@ var list_products = [{
 }, {
     "name": "TECNO POVA 5",
     "company": "Tecno",
-    "img": "img/products/tecno/TECNO POVA 5.jpg",
+    "img": "img/products/tecno/TECNO-POVA-5.jpg",
     "price": "29.260.000",
     "star": 5,
     "rateCount": 87,
@@ -346,7 +346,7 @@ var list_products = [{
 }, {
     "name": "Redmi Note 11R",
     "company": "Xiaomi",
-    "img": "img/products/xiaomi/Redmi Note 11R.jpg",
+    "img": "img/products/xiaomi/Redmi-Note-11R.jpg",
     "price": "9.690.000",
     "star": 4,
     "rateCount": 372,
@@ -369,7 +369,7 @@ var list_products = [{
 }, {
     "name": "Xiaomi 11 Lite 5G NE",
     "company": "Xiaomi",
-    "img": "img/products/xiaomi/Xiaomi 11 Lite 5G NE.jpg",
+    "img": "img/products/xiaomi/Xiaomi-11-Lite-5G-NE.jpg",
     "price": "2.790.000",
     "star": 4,
     "rateCount": 347,
@@ -392,7 +392,7 @@ var list_products = [{
 }, {
     "name": "Huawei Mate Xs 2",
     "company": "Huawei",
-    "img": "img/products/huawei/Huawei Mate Xs 2.jpg",
+    "img": "img/products/huawei/Huawei-Mate-Xs-2.jpg",
     "price": "39.990.000",
     "star": 5,
     "rateCount": 4,
@@ -415,7 +415,7 @@ var list_products = [{
 }, {
     "name": "Huawei Pocket S",
     "company": "Huawei",
-    "img": "img/products/huawei/Huawei Pocket S.jpg",
+    "img": "img/products/huawei/Huawei-Pocket-S.jpg",
     "price": "29.990.000",
     "star": 4,
     "rateCount": 22,
@@ -438,7 +438,7 @@ var list_products = [{
 }, {
     "name": "Huawei Nova 7 SE",
     "company": "Huawei",
-    "img": "img/products/huawei/Huawei Nova 7 SE.jpg",
+    "img": "img/products/huawei/Huawei-Nova-7-SE.jpg",
     "price": "2.990.000",
     "star": 5,
     "rateCount": 54,
@@ -461,7 +461,7 @@ var list_products = [{
 }, {
     "name": "Nokia G11 Plus 3GB 32GB",
     "company": "Nokia",
-    "img": "img/products/nokia/Nokia G11 Plus 3GB 32GB.jpg",
+    "img": "img/products/nokia/Nokia-G11-Plus-3GB-32GB.jpg",
     "price": "999.999.000",
     "star": 5,
     "rateCount": 9999,
@@ -484,7 +484,7 @@ var list_products = [{
 }, {
     "name": "Samsung Galaxy S23 Ultral",
     "company": "Samsung",
-    "img": "img/products/samsung/Samsung Galaxy S23 Ultra.jpg",
+    "img": "img/products/samsung/Samsung-Galaxy-S23-Ultra.jpg",
     "price": "38.990.000",
     "star": 4,
     "rateCount": 22,
@@ -507,7 +507,7 @@ var list_products = [{
 }, {
     "name": "Realme GT Neo 5",
     "company": "Realme",
-    "img": "img/products/realme/Realme GT Neo 5.jpg",
+    "img": "img/products/realme/Realme-GT-Neo-5.jpg",
     "price": "2.990.000",
     "star": 5,
     "rateCount": 16,
@@ -530,7 +530,7 @@ var list_products = [{
 }, {
     "name": " realme C55",
     "company": "Realme",
-    "img": "img/products/realme/realme C55.jpg",
+    "img": "img/products/realme/realme-C55.jpg",
     "price": "14.490.000",
     "star": 5,
     "rateCount": 7,
@@ -553,7 +553,7 @@ var list_products = [{
 }, {
     "name": "Realme 9",
     "company": "Realme",
-    "img": "img/products/realme/Realme 9.jpg",
+    "img": "img/products/realme/Realme-9.jpg",
     "price": "12.490.000",
     "star": 4,
     "rateCount": 4,
@@ -576,7 +576,7 @@ var list_products = [{
 }, {
     "name": "realme 10 Pro Plus",
     "company": "Realme",
-    "img": "img/products/realme/realme 10 Pro Plus.jpg",
+    "img": "img/products/realme/realme-10-Pro-Plus.jpg",
     "price": "15.590.000",
     "star": 4,
     "rateCount": 11,
@@ -599,7 +599,7 @@ var list_products = [{
 }, {
     "name": " OnePlus V Fold",
     "company": "OnePlus",
-    "img": "img/products/oneplus/OnePlus V Fold.jpg",
+    "img": "img/products/oneplus/OnePlus-V-Fold.jpg",
     "price": "48.890.000",
     "star": 5,
     "rateCount": 6,
@@ -622,7 +622,7 @@ var list_products = [{
 }, {
     "name": "Oneplus Open",
     "company": "OnePlus",
-    "img": "img/products/oneplus/Oneplus Open.jpg",
+    "img": "img/products/oneplus/Oneplus-Open.jpg",
     "price": "42.390.000",
     "star": 3,
     "rateCount": 30,
@@ -645,7 +645,7 @@ var list_products = [{
 }, {
     "name": "OnePlus 9 Pro",
     "company": "OnePlus",
-    "img": "img/products/oneplus/OnePlus 9 Pro.jpg",
+    "img": "img/products/oneplus/OnePlus-9-Pro.jpg",
     "price": "2.260.000",
     "star": 5,
     "rateCount": 126,
@@ -668,7 +668,7 @@ var list_products = [{
 }, {
     "name": "vivo V25 5G 8GB 128GB",
     "company": "Vivo",
-    "img": "img/products/vivo/vivo V25 5G 8GB 128GB.jpg",
+    "img": "img/products/vivo/vivo-V25-5G-8GB-128GB.jpg",
     "price": "10.990.000",
     "star": 0,
     "rateCount": 0,
@@ -691,7 +691,7 @@ var list_products = [{
 }, {
     "name": "vivo V25 Pro 8GB 128GB",
     "company": "Vivo",
-    "img": "img/products/vivo/vivo V25 Pro 8GB 128GB.jpg",
+    "img": "img/products/vivo/vivo-V25-Pro-8GB-128GB.jpg",
     "price": "7.490.000",
     "star": 5,
     "rateCount": 168,
@@ -714,7 +714,7 @@ var list_products = [{
 }, {
     "name": "Vivo V27e 8GB 256GB",
     "company": "Vivo",
-    "img": "img/products/vivo/Vivo V27e 8GB 256GB.jpg",
+    "img": "img/products/vivo/Vivo-V27e-8GB-256GB.jpg",
     "price": "4.990.000",
     "star": 4,
     "rateCount": 60,
@@ -737,7 +737,7 @@ var list_products = [{
 }, {
     "name": "vivo X80",
     "company": "Vivo",
-    "img": "img/products/vivo/vivo X80.jpg",
+    "img": "img/products/vivo/vivo-X80.jpg",
     "price": "3.290.000",
     "star": 4,
     "rateCount": 60,
@@ -760,7 +760,7 @@ var list_products = [{
 }, {
     "name": "Nubia Neo 8GB",
     "company": "Nubia",
-    "img": "img/products/nubia/Nubia Neo 8GB.jpg",
+    "img": "img/products/nubia/Nubia-Neo-8GB.jpg",
     "price": "5.550.000",
     "star": 4,
     "rateCount": 37,
@@ -783,7 +783,7 @@ var list_products = [{
 }, {
     "name": "Nubia Red Magic 6R",
     "company": "Nubia",
-    "img": "img/products/nubia/Nubia Red Magic 6R.jpg",
+    "img": "img/products/nubia/Nubia-Red-Magic-6R.jpg",
     "price": "5.590.000",
     "star": 4,
     "rateCount": 58,
@@ -806,7 +806,7 @@ var list_products = [{
 }, {
     "name": "Nubia Red Magic 6s Pro Cyborg",
     "company": "Nubia",
-    "img": "img/products/nubia/Nubia Red Magic 6s Pro Cyborg.jpg",
+    "img": "img/products/nubia/Nubia-Red-Magic-6s-Pro-Cyborg.jpg",
     "price": "19.790.000",
     "star": 0,
     "rateCount": 0,
@@ -829,7 +829,7 @@ var list_products = [{
 }, {
     "name": "ASUS ROG Phone 6 Batman",
     "company": "Asus",
-    "img": "img/products/Asus/ASUS ROG Phone 6 Batman.jpg",
+    "img": "img/products/Asus/ASUS-ROG-Phone-6-Batman.jpg",
     "price": "18.890.000",
     "star": 4,
     "rateCount": 12,
@@ -852,7 +852,7 @@ var list_products = [{
 }, {
     "name": " ASUS ROG Phone 6",
     "company": "Asus",
-    "img": "img/products/Asus/ASUS ROG Phone 6.jpg",
+    "img": "img/products/Asus/ASUS-ROG-Phone-6.jpg",
     "price": "13.350.000",
     "star": 5,
     "rateCount": 3,
@@ -875,7 +875,7 @@ var list_products = [{
 }, {
     "name": "ASUS ROG Phone 7 Ultimate",
     "company": "Asus",
-    "img": "img/products/Asus/ASUS ROG Phone 7 Ultimate.jpg",
+    "img": "img/products/Asus/ASUS-ROG-Phone-7-Ultimate.jpg",
     "price": "16.660.000",
     "star": 5,
     "rateCount": 302,
@@ -898,7 +898,7 @@ var list_products = [{
 }, {
     "name": "ASUS ROG Phone 7",
     "company": "Asus",
-    "img": "img/products/Asus/ASUS ROG Phone 7.jpg",
+    "img": "img/products/Asus/ASUS-ROG-Phone-7.jpg",
     "price": "17.770.000",
     "star": 5,
     "rateCount": 33,
@@ -921,7 +921,7 @@ var list_products = [{
 }, {
     "name": "HONOR X9A 5G",
     "company": "Honor",
-    "img": "img/products/Honor/HONOR X9A 5G.jpg",
+    "img": "img/products/Honor/HONOR-X9A-5G.jpg",
     "price": "23.390.000",
     "star": 0,
     "rateCount": 0,
@@ -944,7 +944,7 @@ var list_products = [{
 }, {
     "name": "Honor X8A",
     "company": "Honor",
-    "img": "img/products/Honor/Honor X8A.jpg",
+    "img": "img/products/Honor/Honor-X8A.jpg",
     "price": "18.890.000",
     "star": 3,
     "rateCount": 3,
@@ -967,7 +967,7 @@ var list_products = [{
 }, {
     "name": "Honor X6A",
     "company": "Honor",
-    "img": "img/products/Honor/Honor X6A.jpg",
+    "img": "img/products/Honor/Honor-X6A.jpg",
     "price": "19.390.000",
     "star": 4,
     "rateCount": 2,
@@ -990,7 +990,7 @@ var list_products = [{
 }, {
     "name": "Infinix Hot 30",
     "company": "Infinix",
-    "img": "img/products/infinix/Infinix Hot 30.jpg",
+    "img": "img/products/infinix/Infinix-Hot-30.jpg",
     "price": "17.690.000",
     "star": 4,
     "rateCount": 12,
@@ -1013,7 +1013,7 @@ var list_products = [{
 }, {
     "name": "TCL 40SE",
     "company": "TCL",
-    "img": "img/products/tcl/TCL 40SE.jpg",
+    "img": "img/products/tcl/TCL-40SE.jpg",
     "price": "19.290.000",
     "star": 4,
     "rateCount": 14,
@@ -1127,7 +1127,7 @@ var list_products = [{
 }, {
     "name": "Huawei Nova 9 SE",
     "company": "Huawei",
-    "img": "img/products/huawei/Huawei Nova 9 SEe.jpg",
+    "img": "img/products/huawei/Huawei-Nova-9-SEe.jpg",
     "price": "14.490.000",
     "star": 4,
     "rateCount": 804,

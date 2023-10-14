@@ -147,8 +147,8 @@
 	margin:	0 auto;
 	padding: .5em 1em;
 	border-radius: 1em;
-	color: #888;
-	background-color: #eee;
+	color: #444;
+	background-color: #f3f4f6;
 	transition-duration: .2s;
 	transform: translateY(1em);
 }
