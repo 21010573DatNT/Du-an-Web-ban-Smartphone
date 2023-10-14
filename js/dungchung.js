@@ -739,8 +739,7 @@ function addPlc() {
                 </li>
                 <li>
                 <h3>Thanh toán miễn phí</h3>
-                    <br><img src="/img/footer/1.png">
-                    
+                    <br><img src="/img/footer/footer2.jpg"> 
                 </li>
             </ul>
         </section>
