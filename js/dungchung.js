@@ -734,12 +734,30 @@ function addPlc() {
                 </li>
                 <li>
                 <h3>Tổng đài</h3>
+
                 <br>Hotline:
-                <a href="tel:12345678" style="color: #288ad6;">12345678</a>
+                <a href="tel:1900.1900" style="color: #00483d; 
+                background-color: #fff; 
+                padding: 10px 15px; 
+                border-radius: 10px; 
+                font-weight: bold; 
+                font-size: 18px; 
+                text-decoration: none;
+                ">1900.1900</a>
+
+                <br><a href="tel:1" style="color: #00483d;">1</a>
+                <h3>Hình thức vận chuyển</h3>
+                <br><img src="/img/footer/nhattin.jpg"> <img src="/img/footer/vnpost.jpg">
+                <br><img src="/img/footer/logo-bct.png">
                 </li>
                 <li>
                 <h3>Thanh toán miễn phí</h3>
-                    <br><img src="/img/footer/footer2.jpg"> 
+                    <br><img src="/img/footer/logo-visa.png"> 
+                    <img src="/img/footer/logo-master.png">
+                    <br><img src="/img/footer/logo-jcb.png"> 
+                    <img src="/img/footer/logo-samsungpay.png">
+                    <br><img src="/img/footer/logo-atm.png"> 
+                    <img src="/img/footer/logo-vnpay.png">
                 </li>
             </ul>
         </section>
