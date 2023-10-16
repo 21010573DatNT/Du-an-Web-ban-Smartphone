@@ -553,10 +553,10 @@ function addHeader() {
             <div class="search-header" style="position: relative; left: 162px; top: 1px;">
                 <form class="input-search" method="get" action="index.html">
                     <div class="autocomplete">
-                        <input id="search-box" name="search" autocomplete="off" type="text" placeholder="Nhập từ khóa tìm kiếm...">
+                        <input id="search-box" name="search" autocomplete="off" type="text" placeholder="Hôm nay bạn cần gì ?">
                         <button type="submit">
                             <i class="fa fa-search"></i>
-                            Tìm kiếm
+                            
                         </button>
                     </div>
                 </form> <!-- End Form search -->
@@ -606,8 +606,8 @@ function addFooter() {
 
     <!-- ============== Footer ============= -->
     <div class="copy-right">
-        <p><a href="index.html">LDD Phone Store</a> - All rights reserved © 2021 - Designed by
-            <span style="color: #eee; font-weight: bold">group 15th</span></p>
+        <p><a href="index.html">A Phone Store</a> - All rights reserved © 2023 - Designed by
+            <span style="color: #eee; font-weight: bold">Group 1th</span></p>
     </div>`);
 }
 
@@ -745,9 +745,10 @@ function addPlc() {
                 text-decoration: none;
                 ">1900.1900</a>
 
-                <br><a href="tel:1" style="color: #00483d;">1</a>
+                <br><a href="." style="color: #00483d;">.</a>
                 <h3>Hình thức vận chuyển</h3>
-                <br><img src="/img/footer/nhattin.jpg"> <img src="/img/footer/vnpost.jpg">
+                <br><img src="/img/footer/nhattin.jpg"> 
+                <img src="/img/footer/vnpost.jpg">
                 <br><img src="/img/footer/logo-bct.png">
                 </li>
                 <li>

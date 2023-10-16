@@ -912,8 +912,8 @@ function progress(percent, bg, width, height) {
             </div>`
 }
 
-// for(var i = 0; i < list_products.length; i++) {
-//     list_products[i].masp = list_products[i].company.substring(0, 3) + vitriCompany(list_products[i], i);
-// }
+//  for(var i = 0; i < list_products.length; i++) {
+//      list_products[i].masp = list_products[i].company.substring(0, 3) + vitriCompany(list_products[i], i);
+//  }
 
-// console.log(JSON.stringify(list_products));
+//  console.log(JSON.stringify(list_products));
