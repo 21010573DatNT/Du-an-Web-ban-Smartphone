@@ -467,7 +467,7 @@ var list_products = [{
     "rateCount": 9999,
     "promo": {
         "name": "giamgia",
-        "value": "1.000"
+        "value": "100.000"
     },
     "detail": {
         "screen": "4K, Chống nước, Chống trầy",
@@ -1561,5 +1561,166 @@ var list_products = [{
         "battery": "3500 mAh, có sạc nhanh"
     },
     "masp": "Opp9"
+}, {
+    "name": "Nokia XR21 5G",
+    "company": "Nokia",
+    "img": "img/products/nokia/Nokia-XR21-5G.jpg",
+    "price": "10.999.000",
+    "star": 5,
+    "rateCount": 99,
+    "promo": {
+        "name": "giamgia",
+        "value": "100.000"
+    },
+    "detail": {
+        "screen": "4K, Chống nước, Chống trầy",
+        "os": "iOS + Android song song",
+        "camara": "Bộ tứ camara tàng hình",
+        "camaraFront": "Chuẩn thế giới 50MP",
+        "cpu": "16 nhân 128 bit",
+        "ram": "Không giới hạn",
+        "rom": "Dùng thoải mái",
+        "microUSB": "Không cần",
+        "battery": "Không cần sạc"
+    },
+    "masp": "Nok2"
+}, {
+    "name": "Nokia G21 ",
+    "company": "Nokia",
+    "img": "img/products/nokia/Nokia-G21.jpg",
+    "price": "9.999.000",
+    "star": 5,
+    "rateCount": 99,
+    "promo": {
+        "name": "giamgia",
+        "value": "100.000"
+    },
+    "detail": {
+        "screen": "4K, Chống nước, Chống trầy",
+        "os": "iOS + Android song song",
+        "camara": "Bộ tứ camara tàng hình",
+        "camaraFront": "Chuẩn thế giới 50MP",
+        "cpu": "16 nhân 128 bit",
+        "ram": "Không giới hạn",
+        "rom": "Dùng thoải mái",
+        "microUSB": "Không cần",
+        "battery": "Không cần sạc"
+    },
+    "masp": "Nok3"
+}, {
+    "name": "Nokia C32 4G - 128G",
+    "company": "Nokia",
+    "img": "img/products/nokia/Nokia-C32-4GB-128GB.jpg",
+    "price": "8.999.000",
+    "star": 5,
+    "rateCount": 99,
+    "promo": {
+        "name": "giamgia",
+        "value": "100.000"
+    },
+    "detail": {
+        "screen": "4K, Chống nước, Chống trầy",
+        "os": "iOS + Android song song",
+        "camara": "Bộ tứ camara tàng hình",
+        "camaraFront": "Chuẩn thế giới 50MP",
+        "cpu": "16 nhân 128 bit",
+        "ram": "Không giới hạn",
+        "rom": "Dùng thoải mái",
+        "microUSB": "Không cần",
+        "battery": "Không cần sạc"
+    },
+    "masp": "Nok4"
+}, {
+    "name": "Nokia G22 4G - 128G",
+    "company": "Nokia",
+    "img": "img/products/nokia/Nokia-G22-4GB-128GB.jpg",
+    "price": "7.999.000",
+    "star": 5,
+    "rateCount": 99,
+    "promo": {
+        "name": "giamgia",
+        "value": "100.000"
+    },
+    "detail": {
+        "screen": "4K, Chống nước, Chống trầy",
+        "os": "iOS + Android song song",
+        "camara": "Bộ tứ camara tàng hình",
+        "camaraFront": "Chuẩn thế giới 50MP",
+        "cpu": "16 nhân 128 bit",
+        "ram": "Không giới hạn",
+        "rom": "Dùng thoải mái",
+        "microUSB": "Không cần",
+        "battery": "Không cần sạc"
+    },
+    "masp": "Nok5"
+}, {
+    "name": "Nokia C31 4GB 128GB",
+    "company": "Nokia",
+    "img": "img/products/nokia/Nokia-C31-4GB-128GB.jpg",
+    "price": "9.999.000",
+    "star": 5,
+    "rateCount": 999,
+    "promo": {
+        "name": "giamgia",
+        "value": "100.000"
+    },
+    "detail": {
+        "screen": "4K, Chống nước, Chống trầy",
+        "os": "iOS + Android song song",
+        "camara": "Bộ tứ camara tàng hình",
+        "camaraFront": "Chuẩn thế giới 50MP",
+        "cpu": "16 nhân 128 bit",
+        "ram": "Không giới hạn",
+        "rom": "Dùng thoải mái",
+        "microUSB": "Không cần",
+        "battery": "Không cần sạc"
+    },
+    "masp": "Nok6"
+}, {
+    "name": "Nokia C21 Plus",
+    "company": "Nokia",
+    "img": "img/products/nokia/Nokia-C21-Plus-2GB-32GB.jpg",
+    "price": "6.999.000",
+    "star": 5,
+    "rateCount": 99,
+    "promo": {
+        "name": "giamgia",
+        "value": "100.000"
+    },
+    "detail": {
+        "screen": "4K, Chống nước, Chống trầy",
+        "os": "iOS + Android song song",
+        "camara": "Bộ tứ camara tàng hình",
+        "camaraFront": "Chuẩn thế giới 50MP",
+        "cpu": "16 nhân 128 bit",
+        "ram": "Không giới hạn",
+        "rom": "Dùng thoải mái",
+        "microUSB": "Không cần",
+        "battery": "Không cần sạc"
+    },
+    "masp": "Nok7"
+}, {
+    "name": "Nokia C3",
+    "company": "Nokia",
+    "img": "img/products/nokia/Nokia-C3.jpg",
+    "price": "9.999.000",
+    "star": 5,
+    "rateCount": 9999,
+    "promo": {
+        "name": "giamgia",
+        "value": "100.000"
+    },
+    "detail": {
+        "screen": "4K, Chống nước, Chống trầy",
+        "os": "iOS + Android song song",
+        "camara": "Bộ tứ camara tàng hình",
+        "camaraFront": "Chuẩn thế giới 50MP",
+        "cpu": "16 nhân 128 bit",
+        "ram": "Không giới hạn",
+        "rom": "Dùng thoải mái",
+        "microUSB": "Không cần",
+        "battery": "Không cần sạc"
+    },
+    "masp": "Nok8"
 }
 ]
