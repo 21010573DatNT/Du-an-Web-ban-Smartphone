@@ -1446,5 +1446,120 @@ var list_products = [{
         "battery": "3500 mAh, có sạc nhanh"
     },
     "masp": "Opp4"
+}, {
+    "name": "OPPO Reno7 Z (5G) ",
+    "company": "Oppo",
+    "img": "img/products/oppo/OPPO-Reno7-Z-(5G).jpg",
+    "price": "15.690.000",
+    "star": 5,
+    "rateCount": 188,
+    "promo": {
+        "name": "giamgia",
+        "value": "500.000"
+    },
+    "detail": {
+        "screen": "LTPS LCD, 6.3', Full HD+",
+        "os": "ColorOS 5.2 (Android 8.1)",
+        "camara": "16 MP và 2 MP (2 camera)",
+        "camaraFront": "25 MP",
+        "cpu": "MediaTek Helio P60 8 nhân 64-bit",
+        "ram": "4 GB",
+        "rom": "64 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
+        "battery": "3500 mAh, có sạc nhanh"
+    },
+    "masp": "Opp5"
+}, {
+    "name": "OPPO A95 ",
+    "company": "Oppo",
+    "img": "img/products/oppo/OPPO-A95.jpg",
+    "price": "2.690.000",
+    "star": 5,
+    "rateCount": 188,
+    "promo": {
+        "name": "giamgia",
+        "value": "500.000"
+    },
+    "detail": {
+        "screen": "LTPS LCD, 6.3', Full HD+",
+        "os": "ColorOS 5.2 (Android 8.1)",
+        "camara": "16 MP và 2 MP (2 camera)",
+        "camaraFront": "25 MP",
+        "cpu": "MediaTek Helio P60 8 nhân 64-bit",
+        "ram": "4 GB",
+        "rom": "64 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
+        "battery": "3500 mAh, có sạc nhanh"
+    },
+    "masp": "Opp6"
+}, {
+    "name": "OPPO A78 4G ",
+    "company": "Oppo",
+    "img": "img/products/oppo/OPPO-A78-4G.jpg",
+    "price": "7.690.000",
+    "star": 5,
+    "rateCount": 188,
+    "promo": {
+        "name": "giamgia",
+        "value": "500.000"
+    },
+    "detail": {
+        "screen": "LTPS LCD, 6.3', Full HD+",
+        "os": "ColorOS 5.2 (Android 8.1)",
+        "camara": "16 MP và 2 MP (2 camera)",
+        "camaraFront": "25 MP",
+        "cpu": "MediaTek Helio P60 8 nhân 64-bit",
+        "ram": "4 GB",
+        "rom": "64 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
+        "battery": "3500 mAh, có sạc nhanh"
+    },
+    "masp": "Opp7"
+}, {
+    "name": "OPPO A77s ",
+    "company": "Oppo",
+    "img": "img/products/oppo/OPPO-A77s.jpg",
+    "price": "5.690.000",
+    "star": 5,
+    "rateCount": 188,
+    "promo": {
+        "name": "giamgia",
+        "value": "500.000"
+    },
+    "detail": {
+        "screen": "LTPS LCD, 6.3', Full HD+",
+        "os": "ColorOS 5.2 (Android 8.1)",
+        "camara": "16 MP và 2 MP (2 camera)",
+        "camaraFront": "25 MP",
+        "cpu": "MediaTek Helio P60 8 nhân 64-bit",
+        "ram": "4 GB",
+        "rom": "64 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
+        "battery": "3500 mAh, có sạc nhanh"
+    },
+    "masp": "Opp8"
+}, {
+    "name": "OPPO A58 4G ",
+    "company": "Oppo",
+    "img": "img/products/oppo/OPPO-A58-4G-6GB-128GB.jpg",
+    "price": "4.690.000",
+    "star": 5,
+    "rateCount": 188,
+    "promo": {
+        "name": "giamgia",
+        "value": "500.000"
+    },
+    "detail": {
+        "screen": "LTPS LCD, 6.3', Full HD+",
+        "os": "ColorOS 5.2 (Android 8.1)",
+        "camara": "16 MP và 2 MP (2 camera)",
+        "camaraFront": "25 MP",
+        "cpu": "MediaTek Helio P60 8 nhân 64-bit",
+        "ram": "4 GB",
+        "rom": "64 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
+        "battery": "3500 mAh, có sạc nhanh"
+    },
+    "masp": "Opp9"
 }
 ]
