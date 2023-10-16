@@ -122,7 +122,7 @@ var list_products = [{
     "rateCount": 10,
     "promo": {
         "name": "giareonline",
-        "value": "27.990.000"
+        "value": "47.990.000"
     },
     "detail": {
         "screen": "OLED, 5.8', Super Retina",
@@ -214,7 +214,7 @@ var list_products = [{
     "rateCount": 0,
     "promo": {
         "name": "giareonline",
-        "value": "16.990.000"
+        "value": "33.990.000"
     },
     "detail": {
         "screen": "LED-backlit IPS LCD, 5.5', Retina HD",
@@ -1083,7 +1083,7 @@ var list_products = [{
     "name": "iPhone 14 Pro",
     "company": "Apple",
     "img": "img/products/iphone/b_c_1_1.jpg",
-    "price": "25.790.000",
+    "price": "32.790.000",
     "star": 5,
     "rateCount": 16,
     "promo": {
@@ -1147,4 +1147,235 @@ var list_products = [{
         "battery": "3340 mAh"
     },
     "masp": "Hua3"
-}]
+},{
+    "name": "iPhone 14 ",
+    "company": "Apple",
+    "img": "img/products/iphone/iphone-14-storage-select-202209-6-1inch-y889.jpg",
+    "price": "22.790.000",
+    "star": 5,
+    "rateCount": 16,
+    "promo": {
+        "name": "giamgia",
+        "value": "500.000"
+    },
+    "detail": {
+        "screen": "LED-backlit IPS LCD, 4.7', Retina HD",
+        "os": "iOS 11",
+        "camara": "12 MP",
+        "camaraFront": "7 MP",
+        "cpu": "Apple A11 Bionic 6 nhân",
+        "ram": "2 GB",
+        "rom": "256 GB",
+        "microUSB": "Không",
+        "battery": "1821 mAh, có sạc nhanh"
+    },
+    "masp": "App7"
+},{
+    "name": "iPhone 13 Pro Max ",
+    "company": "Apple",
+    "img": "img/products/iphone/3_51_1_7.jpg",
+    "price": "29.790.000",
+    "star": 5,
+    "rateCount": 16,
+    "promo": {
+        "name": "giamgia",
+        "value": "500.000"
+    },
+    "detail": {
+        "screen": "LED-backlit IPS LCD, 4.7', Retina HD",
+        "os": "iOS 11",
+        "camara": "12 MP",
+        "camaraFront": "7 MP",
+        "cpu": "Apple A11 Bionic 6 nhân",
+        "ram": "2 GB",
+        "rom": "256 GB",
+        "microUSB": "Không",
+        "battery": "1821 mAh, có sạc nhanh"
+    },
+    "masp": "App8"
+},{
+    "name": "iPhone 13 Pro  ",
+    "company": "Apple",
+    "img": "img/products/iphone/1_66_6_2_1_7.jpg",
+    "price": "27.790.000",
+    "star": 5,
+    "rateCount": 16,
+    "promo": {
+        "name": "giamgia",
+        "value": "500.000"
+    },
+    "detail": {
+        "screen": "LED-backlit IPS LCD, 4.7', Retina HD",
+        "os": "iOS 11",
+        "camara": "12 MP",
+        "camaraFront": "7 MP",
+        "cpu": "Apple A11 Bionic 6 nhân",
+        "ram": "2 GB",
+        "rom": "256 GB",
+        "microUSB": "Không",
+        "battery": "1821 mAh, có sạc nhanh"
+    },
+    "masp": "App9"
+},{
+    "name": "iPhone 13   ",
+    "company": "Apple",
+    "img": "img/products/iphone/14_1_9_2_9.jpg",
+    "price": "20.790.000",
+    "star": 5,
+    "rateCount": 16,
+    "promo": {
+        "name": "giamgia",
+        "value": "500.000"
+    },
+    "detail": {
+        "screen": "LED-backlit IPS LCD, 4.7', Retina HD",
+        "os": "iOS 11",
+        "camara": "12 MP",
+        "camaraFront": "7 MP",
+        "cpu": "Apple A11 Bionic 6 nhân",
+        "ram": "2 GB",
+        "rom": "256 GB",
+        "microUSB": "Không",
+        "battery": "1821 mAh, có sạc nhanh"
+    },
+    "masp": "App10"
+},{
+    "name": "Samsung Galaxy S23 ",
+    "company": "Samsung",
+    "img": "img/products/samsung/Samsung-Galaxy-S23.jpg",
+    "price": "30.500.000",
+    "star": 3,
+    "rateCount": 26,
+    "promo": {
+        "name": "tragop",
+        "value": "0"
+    },
+    "detail": {
+        "screen": "IPS LCD, 6.0', HD+",
+        "os": "Android 8.1 (Oreo)",
+        "camara": "13 MP",
+        "camaraFront": "5 MP",
+        "cpu": "Qualcomm Snapdragon 425 4 nhân 64-bit",
+        "ram": "2 GB",
+        "rom": "16 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
+        "battery": "3300 mAh"
+    },
+    "masp": "Sam4"
+},{
+    "name": "Samsung Galaxy S22 Ultra",
+    "company": "Samsung",
+    "img": "img/products/samsung/Samsung-Galaxy-S22-Ultra.jpg",
+    "price": "29.500.000",
+    "star": 3,
+    "rateCount": 26,
+    "promo": {
+        "name": "tragop",
+        "value": "0"
+    },
+    "detail": {
+        "screen": "IPS LCD, 6.0', HD+",
+        "os": "Android 8.1 (Oreo)",
+        "camara": "13 MP",
+        "camaraFront": "5 MP",
+        "cpu": "Qualcomm Snapdragon 425 4 nhân 64-bit",
+        "ram": "2 GB",
+        "rom": "16 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
+        "battery": "3300 mAh"
+    },
+    "masp": "Sam5"
+},{
+    "name": "Samsung Galaxy S21 FE",
+    "company": "Samsung",
+    "img": "img/products/samsung/Samsung-Galaxy-S21-FE.jpg",
+    "price": "27.500.000",
+    "star": 3,
+    "rateCount": 26,
+    "promo": {
+        "name": "tragop",
+        "value": "0"
+    },
+    "detail": {
+        "screen": "IPS LCD, 6.0', HD+",
+        "os": "Android 8.1 (Oreo)",
+        "camara": "13 MP",
+        "camaraFront": "5 MP",
+        "cpu": "Qualcomm Snapdragon 425 4 nhân 64-bit",
+        "ram": "2 GB",
+        "rom": "16 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
+        "battery": "3300 mAh"
+    },
+    "masp": "Sam6"
+},{
+    "name": "Samsung Galaxy M14",
+    "company": "Samsung",
+    "img": "img/products/samsung/Samsung-Galaxy-M14.jpg",
+    "price": "20.500.000",
+    "star": 3,
+    "rateCount": 26,
+    "promo": {
+        "name": "tragop",
+        "value": "0"
+    },
+    "detail": {
+        "screen": "IPS LCD, 6.0', HD+",
+        "os": "Android 8.1 (Oreo)",
+        "camara": "13 MP",
+        "camaraFront": "5 MP",
+        "cpu": "Qualcomm Snapdragon 425 4 nhân 64-bit",
+        "ram": "2 GB",
+        "rom": "16 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
+        "battery": "3300 mAh"
+    },
+    "masp": "Sam7"
+},{
+    "name": "Samsung Galaxy A34",
+    "company": "Samsung",
+    "img": "img/products/samsung/Samsung-Galaxy-A34.jpg",
+    "price": "19.500.000",
+    "star": 3,
+    "rateCount": 26,
+    "promo": {
+        "name": "tragop",
+        "value": "0"
+    },
+    "detail": {
+        "screen": "IPS LCD, 6.0', HD+",
+        "os": "Android 8.1 (Oreo)",
+        "camara": "13 MP",
+        "camaraFront": "5 MP",
+        "cpu": "Qualcomm Snapdragon 425 4 nhân 64-bit",
+        "ram": "2 GB",
+        "rom": "16 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
+        "battery": "3300 mAh"
+    },
+    "masp": "Sam8"
+},{
+    "name": "Samsung Galaxy A05S",
+    "company": "Samsung",
+    "img": "img/products/samsung/Samsung-Galaxy-A05S.jpg",
+    "price": "18.500.000",
+    "star": 3,
+    "rateCount": 26,
+    "promo": {
+        "name": "tragop",
+        "value": "0"
+    },
+    "detail": {
+        "screen": "IPS LCD, 6.0', HD+",
+        "os": "Android 8.1 (Oreo)",
+        "camara": "13 MP",
+        "camaraFront": "5 MP",
+        "cpu": "Qualcomm Snapdragon 425 4 nhân 64-bit",
+        "ram": "2 GB",
+        "rom": "16 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
+        "battery": "3300 mAh"
+    },
+    "masp": "Sam9"
+}
+]
