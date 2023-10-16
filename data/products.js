@@ -1377,5 +1377,74 @@ var list_products = [{
         "battery": "3300 mAh"
     },
     "masp": "Sam9"
+}, {
+    "name": "OPPO Reno10 5G 8G 256G",
+    "company": "Oppo",
+    "img": "img/products/oppo/OPPO-Reno10-5G-8GB-256GB.jpg",
+    "price": "21.690.000",
+    "star": 5,
+    "rateCount": 188,
+    "promo": {
+        "name": "giamgia",
+        "value": "500.000"
+    },
+    "detail": {
+        "screen": "LTPS LCD, 6.3', Full HD+",
+        "os": "ColorOS 5.2 (Android 8.1)",
+        "camara": "16 MP và 2 MP (2 camera)",
+        "camaraFront": "25 MP",
+        "cpu": "MediaTek Helio P60 8 nhân 64-bit",
+        "ram": "4 GB",
+        "rom": "64 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
+        "battery": "3500 mAh, có sạc nhanh"
+    },
+    "masp": "Opp2"
+}, {
+    "name": "OPPO Reno 8T 5G ",
+    "company": "Oppo",
+    "img": "img/products/oppo/OPPO-Reno8-T-5G.jpg",
+    "price": "18.690.000",
+    "star": 5,
+    "rateCount": 188,
+    "promo": {
+        "name": "giamgia",
+        "value": "500.000"
+    },
+    "detail": {
+        "screen": "LTPS LCD, 6.3', Full HD+",
+        "os": "ColorOS 5.2 (Android 8.1)",
+        "camara": "16 MP và 2 MP (2 camera)",
+        "camaraFront": "25 MP",
+        "cpu": "MediaTek Helio P60 8 nhân 64-bit",
+        "ram": "4 GB",
+        "rom": "64 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
+        "battery": "3500 mAh, có sạc nhanh"
+    },
+    "masp": "Opp3"
+}, {
+    "name": "OPPO Reno 8 5G ",
+    "company": "Oppo",
+    "img": "img/products/oppo/OPPO-Reno8-5G-8GB-256GB.jpg",
+    "price": "17.690.000",
+    "star": 5,
+    "rateCount": 188,
+    "promo": {
+        "name": "giamgia",
+        "value": "500.000"
+    },
+    "detail": {
+        "screen": "LTPS LCD, 6.3', Full HD+",
+        "os": "ColorOS 5.2 (Android 8.1)",
+        "camara": "16 MP và 2 MP (2 camera)",
+        "camaraFront": "25 MP",
+        "cpu": "MediaTek Helio P60 8 nhân 64-bit",
+        "ram": "4 GB",
+        "rom": "64 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
+        "battery": "3500 mAh, có sạc nhanh"
+    },
+    "masp": "Opp4"
 }
 ]
