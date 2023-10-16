@@ -1722,5 +1722,143 @@ var list_products = [{
         "battery": "Không cần sạc"
     },
     "masp": "Nok8"
+}, {
+    "name": "Huawei Nova 10",
+    "company": "Huawei",
+    "img": "img/products/huawei/Huawei-Nova-10.jpg",
+    "price": "19.990.000",
+    "star": 5,
+    "rateCount": 4,
+    "promo": {
+        "name": "tragop",
+        "value": "0"
+    },
+    "detail": {
+        "screen": "OLED, 6.39', Quad HD+ (2K+)",
+        "os": "Android 9.0 (Pie)",
+        "camara": "40 MP, 20 MP và 8 MP (3 camera)",
+        "camaraFront": "24 MP",
+        "cpu": "Hisilicon Kirin 980 8 nhân 64-bit",
+        "ram": "6 GB",
+        "rom": "128 GB",
+        "microUSB": "NM card, hỗ trợ tối đa 512 GB",
+        "battery": "4200 mAh, có sạc nhanh"
+    },
+    "masp": "Hua4"
+}, {
+    "name": "Huawei Nova 10 Pro",
+    "company": "Huawei",
+    "img": "img/products/huawei/Huawei-Nova-10-Pro.jpg",
+    "price": "17.990.000",
+    "star": 5,
+    "rateCount": 4,
+    "promo": {
+        "name": "tragop",
+        "value": "0"
+    },
+    "detail": {
+        "screen": "OLED, 6.39', Quad HD+ (2K+)",
+        "os": "Android 9.0 (Pie)",
+        "camara": "40 MP, 20 MP và 8 MP (3 camera)",
+        "camaraFront": "24 MP",
+        "cpu": "Hisilicon Kirin 980 8 nhân 64-bit",
+        "ram": "6 GB",
+        "rom": "128 GB",
+        "microUSB": "NM card, hỗ trợ tối đa 512 GB",
+        "battery": "4200 mAh, có sạc nhanh"
+    },
+    "masp": "Hua5"
+}, {
+    "name": "Huawei Nova 10Z",
+    "company": "Huawei",
+    "img": "img/products/huawei/Huawei-Nova-10z.jpg",
+    "price": "16.990.000",
+    "star": 5,
+    "rateCount": 4,
+    "promo": {
+        "name": "tragop",
+        "value": "0"
+    },
+    "detail": {
+        "screen": "OLED, 6.39', Quad HD+ (2K+)",
+        "os": "Android 9.0 (Pie)",
+        "camara": "40 MP, 20 MP và 8 MP (3 camera)",
+        "camaraFront": "24 MP",
+        "cpu": "Hisilicon Kirin 980 8 nhân 64-bit",
+        "ram": "6 GB",
+        "rom": "128 GB",
+        "microUSB": "NM card, hỗ trợ tối đa 512 GB",
+        "battery": "4200 mAh, có sạc nhanh"
+    },
+    "masp": "Hua6"
+}, {
+    "name": "Huawei P60 Pro",
+    "company": "Huawei",
+    "img": "img/products/huawei/Huawei-P60-Pro.jpg",
+    "price": "15.990.000",
+    "star": 5,
+    "rateCount": 4,
+    "promo": {
+        "name": "tragop",
+        "value": "0"
+    },
+    "detail": {
+        "screen": "OLED, 6.39', Quad HD+ (2K+)",
+        "os": "Android 9.0 (Pie)",
+        "camara": "40 MP, 20 MP và 8 MP (3 camera)",
+        "camaraFront": "24 MP",
+        "cpu": "Hisilicon Kirin 980 8 nhân 64-bit",
+        "ram": "6 GB",
+        "rom": "128 GB",
+        "microUSB": "NM card, hỗ trợ tối đa 512 GB",
+        "battery": "4200 mAh, có sạc nhanh"
+    },
+    "masp": "Hua7"
+}, {
+    "name": "Huawei Nova 10 SE",
+    "company": "Huawei",
+    "img": "img/products/huawei/Huawei-Nova-10-SE.jpg",
+    "price": "14.990.000",
+    "star": 5,
+    "rateCount": 4,
+    "promo": {
+        "name": "tragop",
+        "value": "0"
+    },
+    "detail": {
+        "screen": "OLED, 6.39', Quad HD+ (2K+)",
+        "os": "Android 9.0 (Pie)",
+        "camara": "40 MP, 20 MP và 8 MP (3 camera)",
+        "camaraFront": "24 MP",
+        "cpu": "Hisilicon Kirin 980 8 nhân 64-bit",
+        "ram": "6 GB",
+        "rom": "128 GB",
+        "microUSB": "NM card, hỗ trợ tối đa 512 GB",
+        "battery": "4200 mAh, có sạc nhanh"
+    },
+    "masp": "Hua8"
+}, {
+    "name": "Huawei Nova 9",
+    "company": "Huawei",
+    "img": "img/products/huawei/Huawei-Nova-9-SE.jpg",
+    "price": "13.990.000",
+    "star": 5,
+    "rateCount": 4,
+    "promo": {
+        "name": "tragop",
+        "value": "0"
+    },
+    "detail": {
+        "screen": "OLED, 6.39', Quad HD+ (2K+)",
+        "os": "Android 9.0 (Pie)",
+        "camara": "40 MP, 20 MP và 8 MP (3 camera)",
+        "camaraFront": "24 MP",
+        "cpu": "Hisilicon Kirin 980 8 nhân 64-bit",
+        "ram": "6 GB",
+        "rom": "128 GB",
+        "microUSB": "NM card, hỗ trợ tối đa 512 GB",
+        "battery": "4200 mAh, có sạc nhanh"
+    },
+    "masp": "Hua9"
 }
 ]
