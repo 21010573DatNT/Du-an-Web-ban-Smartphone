@@ -2482,10 +2482,10 @@ var list_products = [{
     },
     "masp": "One9"
 }, {
-    "name": "Nubia Red Magic 6s Pro Cyborg",
+    "name": "Nubia Red Magic 7 Supernova",
     "company": "Nubia",
-    "img": "img/products/nubia/Nubia-Red-Magic-6s-Pro-Cyborg.jpg",
-    "price": "19.790.000",
+    "img": "img/products/nubia/Nubia-Red-Magic-7-Supernova.jpg",
+    "price": "20.790.000",
     "star": 0,
     "rateCount": 0,
     "promo": {
@@ -2503,12 +2503,12 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 32 GB",
         "battery": "2650 mAh"
     },
-    "masp": "Nub2"
+    "masp": "Nub3"
 }, {
-    "name": "Nubia Red Magic 6s Pro Cyborg",
+    "name": "Nubia Red Magic 8S Pro",
     "company": "Nubia",
-    "img": "img/products/nubia/Nubia-Red-Magic-6s-Pro-Cyborg.jpg",
-    "price": "19.790.000",
+    "img": "img/products/nubia/Nubia-Redmagic-8s-Pro.jpg",
+    "price": "15.790.000",
     "star": 0,
     "rateCount": 0,
     "promo": {
@@ -2526,12 +2526,12 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 32 GB",
         "battery": "2650 mAh"
     },
-    "masp": "Nub2"
+    "masp": "Nub4"
 }, {
-    "name": "Nubia Red Magic 6s Pro Cyborg",
+    "name": "Nubia Red Magic 7S Pro",
     "company": "Nubia",
-    "img": "img/products/nubia/Nubia-Red-Magic-6s-Pro-Cyborg.jpg",
-    "price": "19.790.000",
+    "img": "img/products/nubia/Red-Magic-7S-Pro.jpg",
+    "price": "21.790.000",
     "star": 0,
     "rateCount": 0,
     "promo": {
@@ -2549,6 +2549,6 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 32 GB",
         "battery": "2650 mAh"
     },
-    "masp": "Nub2"
+    "masp": "Nub5"
 }
 ]
