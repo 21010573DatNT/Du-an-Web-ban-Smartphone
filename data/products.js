@@ -2321,10 +2321,10 @@ var list_products = [{
     },
     "masp": "Viv9"
 }, {
-    "name": " OnePlus V Fold",
+    "name": " OnePlus 11 5G 16G 256G",
     "company": "OnePlus",
-    "img": "img/products/oneplus/OnePlus-V-Fold.jpg",
-    "price": "48.890.000",
+    "img": "img/products/oneplus/OnePlus-11-5G-16GB-256GB.jpg",
+    "price": "21.890.000",
     "star": 5,
     "rateCount": 6,
     "promo": {
@@ -2342,12 +2342,12 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 16 GB",
         "battery": "1600 mAh"
     },
-    "masp": "One0"
+    "masp": "One3"
 }, {
-    "name": " OnePlus V Fold",
+    "name": " OnePlus Ace 2 Pro",
     "company": "OnePlus",
-    "img": "img/products/oneplus/OnePlus-V-Fold.jpg",
-    "price": "48.890.000",
+    "img": "img/products/oneplus/Oneplus-Ace-2-Pro.jpg",
+    "price": "19.890.000",
     "star": 5,
     "rateCount": 6,
     "promo": {
@@ -2365,12 +2365,12 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 16 GB",
         "battery": "1600 mAh"
     },
-    "masp": "One0"
+    "masp": "One4"
 }, {
-    "name": " OnePlus V Fold",
+    "name": " OnePlus Ace 2V",
     "company": "OnePlus",
-    "img": "img/products/oneplus/OnePlus-V-Fold.jpg",
-    "price": "48.890.000",
+    "img": "img/products/oneplus/OnePlus-Ace-2V.jpg",
+    "price": "20.890.000",
     "star": 5,
     "rateCount": 6,
     "promo": {
@@ -2388,12 +2388,12 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 16 GB",
         "battery": "1600 mAh"
     },
-    "masp": "One0"
+    "masp": "One5"
 }, {
-    "name": " OnePlus V Fold",
+    "name": " OnePlus Ace Pro",
     "company": "OnePlus",
-    "img": "img/products/oneplus/OnePlus-V-Fold.jpg",
-    "price": "48.890.000",
+    "img": "img/products/oneplus/OnePlus-Ace-Pro.jpg",
+    "price": "25.890.000",
     "star": 5,
     "rateCount": 6,
     "promo": {
@@ -2411,12 +2411,12 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 16 GB",
         "battery": "1600 mAh"
     },
-    "masp": "One0"
+    "masp": "One6"
 }, {
-    "name": " OnePlus V Fold",
+    "name": " OnePlus Nord 3 5G 16G 256G",
     "company": "OnePlus",
-    "img": "img/products/oneplus/OnePlus-V-Fold.jpg",
-    "price": "48.890.000",
+    "img": "img/products/oneplus/OnePlus-Nord-3-5G-16GB-256GB.jpg",
+    "price": "28.890.000",
     "star": 5,
     "rateCount": 6,
     "promo": {
@@ -2434,12 +2434,12 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 16 GB",
         "battery": "1600 mAh"
     },
-    "masp": "One0"
+    "masp": "One7"
 }, {
-    "name": " OnePlus V Fold",
+    "name": " OnePlus Nord CE 3 Lite",
     "company": "OnePlus",
-    "img": "img/products/oneplus/OnePlus-V-Fold.jpg",
-    "price": "48.890.000",
+    "img": "img/products/oneplus/OnePlus-Nord-CE-3-Lite.jpg",
+    "price": "26.890.000",
     "star": 5,
     "rateCount": 6,
     "promo": {
@@ -2457,12 +2457,12 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 16 GB",
         "battery": "1600 mAh"
     },
-    "masp": "One0"
+    "masp": "One8"
 }, {
-    "name": " OnePlus V Fold",
+    "name": " OnePlus Nord N20 SE",
     "company": "OnePlus",
-    "img": "img/products/oneplus/OnePlus-V-Fold.jpg",
-    "price": "48.890.000",
+    "img": "img/products/oneplus/OnePlus-Nord-N20-SE.jpg",
+    "price": "18.890.000",
     "star": 5,
     "rateCount": 6,
     "promo": {
@@ -2480,6 +2480,6 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 16 GB",
         "battery": "1600 mAh"
     },
-    "masp": "One0"
+    "masp": "One9"
 }
 ]
