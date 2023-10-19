@@ -2619,5 +2619,143 @@ var list_products = [{
         "battery": "2000 mAh"
     },
     "masp": "Hon3"
+}, {
+    "name": "TECNO POVA 5",
+    "company": "Tecno",
+    "img": "img/products/tecno/TECNO-POVA-5.jpg",
+    "price": "29.260.000",
+    "star": 5,
+    "rateCount": 87,
+    "promo": {
+        "name": "moiramat",
+        "value": ""
+    },
+    "detail": {
+        "screen": "LCD, 1.8', QQVGA",
+        "os": "Không",
+        "camara": "0.08 MP",
+        "camaraFront": "Không",
+        "cpu": "Không",
+        "ram": "Không",
+        "rom": "Không",
+        "microUSB": "MicroSD, hỗ trợ tối đa 32 GB",
+        "battery": "800 mAh"
+    },
+    "masp": "Tec3"
+}, {
+    "name": "TECNO POVA 5",
+    "company": "Tecno",
+    "img": "img/products/tecno/TECNO-POVA-5.jpg",
+    "price": "29.260.000",
+    "star": 5,
+    "rateCount": 87,
+    "promo": {
+        "name": "moiramat",
+        "value": ""
+    },
+    "detail": {
+        "screen": "LCD, 1.8', QQVGA",
+        "os": "Không",
+        "camara": "0.08 MP",
+        "camaraFront": "Không",
+        "cpu": "Không",
+        "ram": "Không",
+        "rom": "Không",
+        "microUSB": "MicroSD, hỗ trợ tối đa 32 GB",
+        "battery": "800 mAh"
+    },
+    "masp": "Tec3"
+}, {
+    "name": "TECNO POVA 5",
+    "company": "Tecno",
+    "img": "img/products/tecno/TECNO-POVA-5.jpg",
+    "price": "29.260.000",
+    "star": 5,
+    "rateCount": 87,
+    "promo": {
+        "name": "moiramat",
+        "value": ""
+    },
+    "detail": {
+        "screen": "LCD, 1.8', QQVGA",
+        "os": "Không",
+        "camara": "0.08 MP",
+        "camaraFront": "Không",
+        "cpu": "Không",
+        "ram": "Không",
+        "rom": "Không",
+        "microUSB": "MicroSD, hỗ trợ tối đa 32 GB",
+        "battery": "800 mAh"
+    },
+    "masp": "Tec3"
+}, {
+    "name": "TECNO POVA 5",
+    "company": "Tecno",
+    "img": "img/products/tecno/TECNO-POVA-5.jpg",
+    "price": "29.260.000",
+    "star": 5,
+    "rateCount": 87,
+    "promo": {
+        "name": "moiramat",
+        "value": ""
+    },
+    "detail": {
+        "screen": "LCD, 1.8', QQVGA",
+        "os": "Không",
+        "camara": "0.08 MP",
+        "camaraFront": "Không",
+        "cpu": "Không",
+        "ram": "Không",
+        "rom": "Không",
+        "microUSB": "MicroSD, hỗ trợ tối đa 32 GB",
+        "battery": "800 mAh"
+    },
+    "masp": "Tec3"
+}, {
+    "name": "TECNO POVA 5",
+    "company": "Tecno",
+    "img": "img/products/tecno/TECNO-POVA-5.jpg",
+    "price": "29.260.000",
+    "star": 5,
+    "rateCount": 87,
+    "promo": {
+        "name": "moiramat",
+        "value": ""
+    },
+    "detail": {
+        "screen": "LCD, 1.8', QQVGA",
+        "os": "Không",
+        "camara": "0.08 MP",
+        "camaraFront": "Không",
+        "cpu": "Không",
+        "ram": "Không",
+        "rom": "Không",
+        "microUSB": "MicroSD, hỗ trợ tối đa 32 GB",
+        "battery": "800 mAh"
+    },
+    "masp": "Tec3"
+}, {
+    "name": "TECNO POVA 5",
+    "company": "Tecno",
+    "img": "img/products/tecno/TECNO-POVA-5.jpg",
+    "price": "29.260.000",
+    "star": 5,
+    "rateCount": 87,
+    "promo": {
+        "name": "moiramat",
+        "value": ""
+    },
+    "detail": {
+        "screen": "LCD, 1.8', QQVGA",
+        "os": "Không",
+        "camara": "0.08 MP",
+        "camaraFront": "Không",
+        "cpu": "Không",
+        "ram": "Không",
+        "rom": "Không",
+        "microUSB": "MicroSD, hỗ trợ tối đa 32 GB",
+        "battery": "800 mAh"
+    },
+    "masp": "Tec3"
 }
 ]
