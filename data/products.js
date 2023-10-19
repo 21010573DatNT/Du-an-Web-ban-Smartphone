@@ -2044,5 +2044,143 @@ var list_products = [{
         "battery": "4000 mAh, có sạc nhanh"
     },
     "masp": "Xia11"
+}, {
+    "name": "Realme 10",
+    "company": "Realme",
+    "img": "img/products/realme/realme-10.jpg",
+    "price": "2.990.000",
+    "star": 5,
+    "rateCount": 16,
+    "promo": {
+        "name": "moiramat",
+        "value": ""
+    },
+    "detail": {
+        "screen": "IPS LCD, 6.3', Full HD+",
+        "os": "ColorOS 5.2 (Android 8.1)",
+        "camara": "16 MP và 2 MP (2 camera)",
+        "camaraFront": "16 MP",
+        "cpu": "Qualcomm Snapdragon 660 8 nhân",
+        "ram": "8 GB",
+        "rom": "128 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
+        "battery": "3500 mAh"
+    },
+    "masp": "Rea4"
+}, {
+    "name": "Realme 11",
+    "company": "Realme",
+    "img": "img/products/realme/realme-11-8GB.jpg",
+    "price": "12.990.000",
+    "star": 5,
+    "rateCount": 16,
+    "promo": {
+        "name": "moiramat",
+        "value": ""
+    },
+    "detail": {
+        "screen": "IPS LCD, 6.3', Full HD+",
+        "os": "ColorOS 5.2 (Android 8.1)",
+        "camara": "16 MP và 2 MP (2 camera)",
+        "camaraFront": "16 MP",
+        "cpu": "Qualcomm Snapdragon 660 8 nhân",
+        "ram": "8 GB",
+        "rom": "128 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
+        "battery": "3500 mAh"
+    },
+    "masp": "Rea5"
+}, {
+    "name": "Realme 11 Pro",
+    "company": "Realme",
+    "img": "img/products/realme/realme-11-Pro.jpg",
+    "price": "10.990.000",
+    "star": 5,
+    "rateCount": 16,
+    "promo": {
+        "name": "moiramat",
+        "value": ""
+    },
+    "detail": {
+        "screen": "IPS LCD, 6.3', Full HD+",
+        "os": "ColorOS 5.2 (Android 8.1)",
+        "camara": "16 MP và 2 MP (2 camera)",
+        "camaraFront": "16 MP",
+        "cpu": "Qualcomm Snapdragon 660 8 nhân",
+        "ram": "8 GB",
+        "rom": "128 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
+        "battery": "3500 mAh"
+    },
+    "masp": "Rea6"
+}, {
+    "name": "Realme C30s",
+    "company": "Realme",
+    "img": "img/products/realme/realme-C30s.jpg",
+    "price": "5.990.000",
+    "star": 5,
+    "rateCount": 16,
+    "promo": {
+        "name": "moiramat",
+        "value": ""
+    },
+    "detail": {
+        "screen": "IPS LCD, 6.3', Full HD+",
+        "os": "ColorOS 5.2 (Android 8.1)",
+        "camara": "16 MP và 2 MP (2 camera)",
+        "camaraFront": "16 MP",
+        "cpu": "Qualcomm Snapdragon 660 8 nhân",
+        "ram": "8 GB",
+        "rom": "128 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
+        "battery": "3500 mAh"
+    },
+    "masp": "Rea7"
+}, {
+    "name": "Realme C33",
+    "company": "Realme",
+    "img": "img/products/realme/realme-C33.jpg",
+    "price": "9.990.000",
+    "star": 5,
+    "rateCount": 16,
+    "promo": {
+        "name": "moiramat",
+        "value": ""
+    },
+    "detail": {
+        "screen": "IPS LCD, 6.3', Full HD+",
+        "os": "ColorOS 5.2 (Android 8.1)",
+        "camara": "16 MP và 2 MP (2 camera)",
+        "camaraFront": "16 MP",
+        "cpu": "Qualcomm Snapdragon 660 8 nhân",
+        "ram": "8 GB",
+        "rom": "128 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
+        "battery": "3500 mAh"
+    },
+    "masp": "Rea8"
+}, {
+    "name": "Realme C51",
+    "company": "Realme",
+    "img": "img/products/realme/realme-C51.jpg",
+    "price": "2.990.000",
+    "star": 5,
+    "rateCount": 16,
+    "promo": {
+        "name": "moiramat",
+        "value": ""
+    },
+    "detail": {
+        "screen": "IPS LCD, 6.3', Full HD+",
+        "os": "ColorOS 5.2 (Android 8.1)",
+        "camara": "16 MP và 2 MP (2 camera)",
+        "camaraFront": "16 MP",
+        "cpu": "Qualcomm Snapdragon 660 8 nhân",
+        "ram": "8 GB",
+        "rom": "128 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
+        "battery": "3500 mAh"
+    },
+    "masp": "Rea9"
 }
 ]
