@@ -2481,5 +2481,74 @@ var list_products = [{
         "battery": "1600 mAh"
     },
     "masp": "One9"
+}, {
+    "name": "Nubia Red Magic 6s Pro Cyborg",
+    "company": "Nubia",
+    "img": "img/products/nubia/Nubia-Red-Magic-6s-Pro-Cyborg.jpg",
+    "price": "19.790.000",
+    "star": 0,
+    "rateCount": 0,
+    "promo": {
+        "name": "moiramat",
+        "value": ""
+    },
+    "detail": {
+        "screen": "LCD, 5.5', FWVGA",
+        "os": "Android 8.1 (Oreo)",
+        "camara": "8 MP và 2 MP (2 camera)",
+        "camaraFront": "5 MP",
+        "cpu": "MT6580 4 nhân 32-bit",
+        "ram": "1 GB",
+        "rom": "16 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 32 GB",
+        "battery": "2650 mAh"
+    },
+    "masp": "Nub2"
+}, {
+    "name": "Nubia Red Magic 6s Pro Cyborg",
+    "company": "Nubia",
+    "img": "img/products/nubia/Nubia-Red-Magic-6s-Pro-Cyborg.jpg",
+    "price": "19.790.000",
+    "star": 0,
+    "rateCount": 0,
+    "promo": {
+        "name": "moiramat",
+        "value": ""
+    },
+    "detail": {
+        "screen": "LCD, 5.5', FWVGA",
+        "os": "Android 8.1 (Oreo)",
+        "camara": "8 MP và 2 MP (2 camera)",
+        "camaraFront": "5 MP",
+        "cpu": "MT6580 4 nhân 32-bit",
+        "ram": "1 GB",
+        "rom": "16 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 32 GB",
+        "battery": "2650 mAh"
+    },
+    "masp": "Nub2"
+}, {
+    "name": "Nubia Red Magic 6s Pro Cyborg",
+    "company": "Nubia",
+    "img": "img/products/nubia/Nubia-Red-Magic-6s-Pro-Cyborg.jpg",
+    "price": "19.790.000",
+    "star": 0,
+    "rateCount": 0,
+    "promo": {
+        "name": "moiramat",
+        "value": ""
+    },
+    "detail": {
+        "screen": "LCD, 5.5', FWVGA",
+        "os": "Android 8.1 (Oreo)",
+        "camara": "8 MP và 2 MP (2 camera)",
+        "camaraFront": "5 MP",
+        "cpu": "MT6580 4 nhân 32-bit",
+        "ram": "1 GB",
+        "rom": "16 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 32 GB",
+        "battery": "2650 mAh"
+    },
+    "masp": "Nub2"
 }
 ]
