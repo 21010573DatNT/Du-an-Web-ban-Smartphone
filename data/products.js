@@ -2320,5 +2320,166 @@ var list_products = [{
         "battery": "3260 mAh"
     },
     "masp": "Viv9"
+}, {
+    "name": " OnePlus V Fold",
+    "company": "OnePlus",
+    "img": "img/products/oneplus/OnePlus-V-Fold.jpg",
+    "price": "48.890.000",
+    "star": 5,
+    "rateCount": 6,
+    "promo": {
+        "name": "",
+        "value": ""
+    },
+    "detail": {
+        "screen": "TFT, 2.4', QVGA",
+        "os": "Không",
+        "camara": "0.3 MP",
+        "camaraFront": "Không",
+        "cpu": "Không",
+        "ram": "Không",
+        "rom": "Không",
+        "microUSB": "MicroSD, hỗ trợ tối đa 16 GB",
+        "battery": "1600 mAh"
+    },
+    "masp": "One0"
+}, {
+    "name": " OnePlus V Fold",
+    "company": "OnePlus",
+    "img": "img/products/oneplus/OnePlus-V-Fold.jpg",
+    "price": "48.890.000",
+    "star": 5,
+    "rateCount": 6,
+    "promo": {
+        "name": "",
+        "value": ""
+    },
+    "detail": {
+        "screen": "TFT, 2.4', QVGA",
+        "os": "Không",
+        "camara": "0.3 MP",
+        "camaraFront": "Không",
+        "cpu": "Không",
+        "ram": "Không",
+        "rom": "Không",
+        "microUSB": "MicroSD, hỗ trợ tối đa 16 GB",
+        "battery": "1600 mAh"
+    },
+    "masp": "One0"
+}, {
+    "name": " OnePlus V Fold",
+    "company": "OnePlus",
+    "img": "img/products/oneplus/OnePlus-V-Fold.jpg",
+    "price": "48.890.000",
+    "star": 5,
+    "rateCount": 6,
+    "promo": {
+        "name": "",
+        "value": ""
+    },
+    "detail": {
+        "screen": "TFT, 2.4', QVGA",
+        "os": "Không",
+        "camara": "0.3 MP",
+        "camaraFront": "Không",
+        "cpu": "Không",
+        "ram": "Không",
+        "rom": "Không",
+        "microUSB": "MicroSD, hỗ trợ tối đa 16 GB",
+        "battery": "1600 mAh"
+    },
+    "masp": "One0"
+}, {
+    "name": " OnePlus V Fold",
+    "company": "OnePlus",
+    "img": "img/products/oneplus/OnePlus-V-Fold.jpg",
+    "price": "48.890.000",
+    "star": 5,
+    "rateCount": 6,
+    "promo": {
+        "name": "",
+        "value": ""
+    },
+    "detail": {
+        "screen": "TFT, 2.4', QVGA",
+        "os": "Không",
+        "camara": "0.3 MP",
+        "camaraFront": "Không",
+        "cpu": "Không",
+        "ram": "Không",
+        "rom": "Không",
+        "microUSB": "MicroSD, hỗ trợ tối đa 16 GB",
+        "battery": "1600 mAh"
+    },
+    "masp": "One0"
+}, {
+    "name": " OnePlus V Fold",
+    "company": "OnePlus",
+    "img": "img/products/oneplus/OnePlus-V-Fold.jpg",
+    "price": "48.890.000",
+    "star": 5,
+    "rateCount": 6,
+    "promo": {
+        "name": "",
+        "value": ""
+    },
+    "detail": {
+        "screen": "TFT, 2.4', QVGA",
+        "os": "Không",
+        "camara": "0.3 MP",
+        "camaraFront": "Không",
+        "cpu": "Không",
+        "ram": "Không",
+        "rom": "Không",
+        "microUSB": "MicroSD, hỗ trợ tối đa 16 GB",
+        "battery": "1600 mAh"
+    },
+    "masp": "One0"
+}, {
+    "name": " OnePlus V Fold",
+    "company": "OnePlus",
+    "img": "img/products/oneplus/OnePlus-V-Fold.jpg",
+    "price": "48.890.000",
+    "star": 5,
+    "rateCount": 6,
+    "promo": {
+        "name": "",
+        "value": ""
+    },
+    "detail": {
+        "screen": "TFT, 2.4', QVGA",
+        "os": "Không",
+        "camara": "0.3 MP",
+        "camaraFront": "Không",
+        "cpu": "Không",
+        "ram": "Không",
+        "rom": "Không",
+        "microUSB": "MicroSD, hỗ trợ tối đa 16 GB",
+        "battery": "1600 mAh"
+    },
+    "masp": "One0"
+}, {
+    "name": " OnePlus V Fold",
+    "company": "OnePlus",
+    "img": "img/products/oneplus/OnePlus-V-Fold.jpg",
+    "price": "48.890.000",
+    "star": 5,
+    "rateCount": 6,
+    "promo": {
+        "name": "",
+        "value": ""
+    },
+    "detail": {
+        "screen": "TFT, 2.4', QVGA",
+        "os": "Không",
+        "camara": "0.3 MP",
+        "camaraFront": "Không",
+        "cpu": "Không",
+        "ram": "Không",
+        "rom": "Không",
+        "microUSB": "MicroSD, hỗ trợ tối đa 16 GB",
+        "battery": "1600 mAh"
+    },
+    "masp": "One0"
 }
 ]
