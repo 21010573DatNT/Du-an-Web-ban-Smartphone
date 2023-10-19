@@ -2572,6 +2572,6 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 32 GB",
         "battery": "2350 mAh"
     },
-    "masp": "TCL0"
+    "masp": "TCL1"
 }
 ]
