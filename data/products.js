@@ -1018,8 +1018,8 @@ var list_products = [{
     "star": 4,
     "rateCount": 14,
     "promo": {
-        "name": "",
-        "value": ""
+        "name": "giareonline",
+        "value": "18.990.000"
     },
     "detail": {
         "screen": "TFT, 5', FWVGA",
@@ -2550,5 +2550,28 @@ var list_products = [{
         "battery": "2650 mAh"
     },
     "masp": "Nub5"
+}, {
+    "name": "TCL 30SE Cruze Pro ",
+    "company": "TCL",
+    "img": "img/products/tcl/TCL-30SE-Cruze-Pro.jpg",
+    "price": "19.290.000",
+    "star": 5,
+    "rateCount": 14,
+    "promo": {
+        "name": "giareonline",
+        "value": "16.990.000"
+    },
+    "detail": {
+        "screen": "TFT, 5', FWVGA",
+        "os": "Android 7.1 (Nougat)",
+        "camara": "5 MP",
+        "camaraFront": "2 MP",
+        "cpu": "MT6737 4 nhân",
+        "ram": "1 GB",
+        "rom": "16 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 32 GB",
+        "battery": "2350 mAh"
+    },
+    "masp": "TCL0"
 }
 ]
