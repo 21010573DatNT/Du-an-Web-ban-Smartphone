@@ -1861,10 +1861,10 @@ var list_products = [{
     },
     "masp": "Hua9"
 }, {
-    "name": "Redmi Note 11R",
+    "name": "Redmi 12T ",
     "company": "Xiaomi",
-    "img": "img/products/xiaomi/Redmi-Note-11R.jpg",
-    "price": "9.690.000",
+    "img": "img/products/xiaomi/Xiaomi-12T-8GB-128GB.jpg",
+    "price": "19.690.000",
     "star": 4,
     "rateCount": 372,
     "promo": {
@@ -1882,11 +1882,11 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 128 GB",
         "battery": "4000 mAh, có sạc nhanh"
     },
-    "masp": "Xia2"
+    "masp": "Xia4"
 }, {
-    "name": "Redmi Note 11R",
+    "name": "Redmi 13 Lite",
     "company": "Xiaomi",
-    "img": "img/products/xiaomi/Redmi-Note-11R.jpg",
+    "img": "img/products/xiaomi/Xiaomi-13-Lite.jpg",
     "price": "9.690.000",
     "star": 4,
     "rateCount": 372,
@@ -1905,12 +1905,12 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 128 GB",
         "battery": "4000 mAh, có sạc nhanh"
     },
-    "masp": "Xia2"
+    "masp": "Xia5"
 }, {
-    "name": "Redmi Note 11R",
+    "name": "Redmi 13T Pro",
     "company": "Xiaomi",
-    "img": "img/products/xiaomi/Redmi-Note-11R.jpg",
-    "price": "9.690.000",
+    "img": "img/products/xiaomi/Xiaomi-13T-Pro-5G.jpg",
+    "price": "17.690.000",
     "star": 4,
     "rateCount": 372,
     "promo": {
@@ -1928,12 +1928,12 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 128 GB",
         "battery": "4000 mAh, có sạc nhanh"
     },
-    "masp": "Xia2"
+    "masp": "Xia6"
 }, {
-    "name": "Redmi Note 11R",
+    "name": "Redmi Note 11 Pro Plus",
     "company": "Xiaomi",
-    "img": "img/products/xiaomi/Redmi-Note-11R.jpg",
-    "price": "9.690.000",
+    "img": "img/products/xiaomi/Xiaomi-Redmi-Note-11-Pro-Plus-5G.jpg",
+    "price": "13.690.000",
     "star": 4,
     "rateCount": 372,
     "promo": {
@@ -1951,12 +1951,12 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 128 GB",
         "battery": "4000 mAh, có sạc nhanh"
     },
-    "masp": "Xia2"
+    "masp": "Xia7"
 }, {
-    "name": "Redmi Note 11R",
+    "name": "Redmi Note 12",
     "company": "Xiaomi",
-    "img": "img/products/xiaomi/Redmi-Note-11R.jpg",
-    "price": "9.690.000",
+    "img": "img/products/xiaomi/Xiaomi-Redmi-Note-12.jpg",
+    "price": "15.690.000",
     "star": 4,
     "rateCount": 372,
     "promo": {
@@ -1974,12 +1974,12 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 128 GB",
         "battery": "4000 mAh, có sạc nhanh"
     },
-    "masp": "Xia2"
+    "masp": "Xia8"
 }, {
-    "name": "Redmi Note 11R",
+    "name": "Redmi Note 12 Pro",
     "company": "Xiaomi",
-    "img": "img/products/xiaomi/Redmi-Note-11R.jpg",
-    "price": "9.690.000",
+    "img": "img/products/xiaomi/Xiaomi-Redmi-Note-12-Pro-5G.jpg",
+    "price": "19.690.000",
     "star": 4,
     "rateCount": 372,
     "promo": {
@@ -1997,11 +1997,11 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 128 GB",
         "battery": "4000 mAh, có sạc nhanh"
     },
-    "masp": "Xia2"
+    "masp": "Xia9"
 }, {
-    "name": "Redmi Note 11R",
+    "name": "Redmi Note 12S",
     "company": "Xiaomi",
-    "img": "img/products/xiaomi/Redmi-Note-11R.jpg",
+    "img": "img/products/xiaomi/Xiaomi-Redmi-Note-12S.jpg",
     "price": "9.690.000",
     "star": 4,
     "rateCount": 372,
@@ -2020,11 +2020,11 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 128 GB",
         "battery": "4000 mAh, có sạc nhanh"
     },
-    "masp": "Xia2"
+    "masp": "Xia10"
 }, {
-    "name": "Redmi Note 11R",
+    "name": "Redmi Note 13",
     "company": "Xiaomi",
-    "img": "img/products/xiaomi/Redmi-Note-11R.jpg",
+    "img": "img/products/xiaomi/Xiaomi-13-8GB-256GB.jpg",
     "price": "9.690.000",
     "star": 4,
     "rateCount": 372,
@@ -2043,6 +2043,6 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 128 GB",
         "battery": "4000 mAh, có sạc nhanh"
     },
-    "masp": "Xia2"
+    "masp": "Xia11"
 }
 ]
