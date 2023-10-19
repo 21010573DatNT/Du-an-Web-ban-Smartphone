@@ -2573,5 +2573,28 @@ var list_products = [{
         "battery": "2350 mAh"
     },
     "masp": "TCL1"
+}, {
+    "name": "Infinix Note 30",
+    "company": "Infinix",
+    "img": "img/products/infinix/Infinix-Note-30.jpg",
+    "price": "19.690.000",
+    "star": 4,
+    "rateCount": 12,
+    "promo": {
+        "name": "moiramat",
+        "value": ""
+    },
+    "detail": {
+        "screen": "Super LCD, 6', Full HD+",
+        "os": "Android 8.1 (Oreo)",
+        "camara": "16 MP và 5 MP (2 camera)",
+        "camaraFront": "13 MP",
+        "cpu": "Qualcomm Snapdragon 636 8 nhân",
+        "ram": "4 GB",
+        "rom": "64 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 512 GB",
+        "battery": "3600 mAh"
+    },
+    "masp": "Inf1"
 }
 ]
