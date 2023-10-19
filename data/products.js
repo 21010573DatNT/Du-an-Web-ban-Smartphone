@@ -2620,10 +2620,10 @@ var list_products = [{
     },
     "masp": "Hon3"
 }, {
-    "name": "TECNO POVA 5",
+    "name": "TECNO Pop 6 Pro",
     "company": "Tecno",
-    "img": "img/products/tecno/TECNO-POVA-5.jpg",
-    "price": "29.260.000",
+    "img": "img/products/tecno/Tecno-Pop-6-Pro.jpg",
+    "price": "12.260.000",
     "star": 5,
     "rateCount": 87,
     "promo": {
@@ -2641,12 +2641,12 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 32 GB",
         "battery": "800 mAh"
     },
-    "masp": "Tec3"
+    "masp": "Tec4"
 }, {
-    "name": "TECNO POVA 5",
+    "name": "TECNO Spark 9",
     "company": "Tecno",
-    "img": "img/products/tecno/TECNO-POVA-5.jpg",
-    "price": "29.260.000",
+    "img": "img/products/tecno/Tecno-Spark-9.jpg",
+    "price": "18.260.000",
     "star": 5,
     "rateCount": 87,
     "promo": {
@@ -2664,12 +2664,12 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 32 GB",
         "battery": "800 mAh"
     },
-    "masp": "Tec3"
+    "masp": "Tec5"
 }, {
-    "name": "TECNO POVA 5",
+    "name": "TECNO Spark 10",
     "company": "Tecno",
-    "img": "img/products/tecno/TECNO-POVA-5.jpg",
-    "price": "29.260.000",
+    "img": "img/products/tecno/TECNO-Spark-10.jpg",
+    "price": "15.260.000",
     "star": 5,
     "rateCount": 87,
     "promo": {
@@ -2687,12 +2687,12 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 32 GB",
         "battery": "800 mAh"
     },
-    "masp": "Tec3"
+    "masp": "Tec6"
 }, {
-    "name": "TECNO POVA 5",
+    "name": "TECNO Spark 10C",
     "company": "Tecno",
-    "img": "img/products/tecno/TECNO-POVA-5.jpg",
-    "price": "29.260.000",
+    "img": "img/products/tecno/Tecno-Spark-10C.jpg",
+    "price": "18.260.000",
     "star": 5,
     "rateCount": 87,
     "promo": {
@@ -2710,12 +2710,12 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 32 GB",
         "battery": "800 mAh"
     },
-    "masp": "Tec3"
+    "masp": "Tec7"
 }, {
-    "name": "TECNO POVA 5",
+    "name": "TECNO Spark 10 Pro",
     "company": "Tecno",
-    "img": "img/products/tecno/TECNO-POVA-5.jpg",
-    "price": "29.260.000",
+    "img": "img/products/tecno/TECNO-Spark-10-Pro.jpg",
+    "price": "19.260.000",
     "star": 5,
     "rateCount": 87,
     "promo": {
@@ -2733,11 +2733,11 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 32 GB",
         "battery": "800 mAh"
     },
-    "masp": "Tec3"
+    "masp": "Tec8"
 }, {
-    "name": "TECNO POVA 5",
+    "name": "TECNO Spark Go",
     "company": "Tecno",
-    "img": "img/products/tecno/TECNO-POVA-5.jpg",
+    "img": "img/products/tecno/TECNO-Spark-Go.jpg",
     "price": "29.260.000",
     "star": 5,
     "rateCount": 87,
@@ -2756,6 +2756,6 @@ var list_products = [{
         "microUSB": "MicroSD, hỗ trợ tối đa 32 GB",
         "battery": "800 mAh"
     },
-    "masp": "Tec3"
+    "masp": "Tec9"
 }
 ]
