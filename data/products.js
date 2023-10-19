@@ -2596,5 +2596,28 @@ var list_products = [{
         "battery": "3600 mAh"
     },
     "masp": "Inf1"
+}, {
+    "name": "Honor X5",
+    "company": "Honor",
+    "img": "img/products/Honor/Honor-X5.jpg",
+    "price": "2.390.000",
+    "star": 4,
+    "rateCount": 18,
+    "promo": {
+        "name": "moiramat",
+        "value": ""
+    },
+    "detail": {
+        "screen": "IPS LCD, 5', WVGA",
+        "os": "Android Go Edition",
+        "camara": "5 MP và 0.3 MP (2 camera)",
+        "camaraFront": "2 MP",
+        "cpu": "MT6580 4 nhân 32-bit",
+        "ram": "1 GB",
+        "rom": "8 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 32 GB",
+        "battery": "2000 mAh"
+    },
+    "masp": "Hon3"
 }
 ]
