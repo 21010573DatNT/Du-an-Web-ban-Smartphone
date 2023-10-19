@@ -1860,5 +1860,189 @@ var list_products = [{
         "battery": "4200 mAh, có sạc nhanh"
     },
     "masp": "Hua9"
+}, {
+    "name": "Redmi Note 11R",
+    "company": "Xiaomi",
+    "img": "img/products/xiaomi/Redmi-Note-11R.jpg",
+    "price": "9.690.000",
+    "star": 4,
+    "rateCount": 372,
+    "promo": {
+        "name": "moiramat",
+        "value": ""
+    },
+    "detail": {
+        "screen": "IPS LCD, 5.99', Full HD+",
+        "os": "Android 8.1 (Oreo)",
+        "camara": "12 MP và 5 MP (2 camera)",
+        "camaraFront": "13 MP",
+        "cpu": "Qualcomm Snapdragon 636 8 nhân",
+        "ram": "4 GB",
+        "rom": "64 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 128 GB",
+        "battery": "4000 mAh, có sạc nhanh"
+    },
+    "masp": "Xia2"
+}, {
+    "name": "Redmi Note 11R",
+    "company": "Xiaomi",
+    "img": "img/products/xiaomi/Redmi-Note-11R.jpg",
+    "price": "9.690.000",
+    "star": 4,
+    "rateCount": 372,
+    "promo": {
+        "name": "moiramat",
+        "value": ""
+    },
+    "detail": {
+        "screen": "IPS LCD, 5.99', Full HD+",
+        "os": "Android 8.1 (Oreo)",
+        "camara": "12 MP và 5 MP (2 camera)",
+        "camaraFront": "13 MP",
+        "cpu": "Qualcomm Snapdragon 636 8 nhân",
+        "ram": "4 GB",
+        "rom": "64 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 128 GB",
+        "battery": "4000 mAh, có sạc nhanh"
+    },
+    "masp": "Xia2"
+}, {
+    "name": "Redmi Note 11R",
+    "company": "Xiaomi",
+    "img": "img/products/xiaomi/Redmi-Note-11R.jpg",
+    "price": "9.690.000",
+    "star": 4,
+    "rateCount": 372,
+    "promo": {
+        "name": "moiramat",
+        "value": ""
+    },
+    "detail": {
+        "screen": "IPS LCD, 5.99', Full HD+",
+        "os": "Android 8.1 (Oreo)",
+        "camara": "12 MP và 5 MP (2 camera)",
+        "camaraFront": "13 MP",
+        "cpu": "Qualcomm Snapdragon 636 8 nhân",
+        "ram": "4 GB",
+        "rom": "64 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 128 GB",
+        "battery": "4000 mAh, có sạc nhanh"
+    },
+    "masp": "Xia2"
+}, {
+    "name": "Redmi Note 11R",
+    "company": "Xiaomi",
+    "img": "img/products/xiaomi/Redmi-Note-11R.jpg",
+    "price": "9.690.000",
+    "star": 4,
+    "rateCount": 372,
+    "promo": {
+        "name": "moiramat",
+        "value": ""
+    },
+    "detail": {
+        "screen": "IPS LCD, 5.99', Full HD+",
+        "os": "Android 8.1 (Oreo)",
+        "camara": "12 MP và 5 MP (2 camera)",
+        "camaraFront": "13 MP",
+        "cpu": "Qualcomm Snapdragon 636 8 nhân",
+        "ram": "4 GB",
+        "rom": "64 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 128 GB",
+        "battery": "4000 mAh, có sạc nhanh"
+    },
+    "masp": "Xia2"
+}, {
+    "name": "Redmi Note 11R",
+    "company": "Xiaomi",
+    "img": "img/products/xiaomi/Redmi-Note-11R.jpg",
+    "price": "9.690.000",
+    "star": 4,
+    "rateCount": 372,
+    "promo": {
+        "name": "moiramat",
+        "value": ""
+    },
+    "detail": {
+        "screen": "IPS LCD, 5.99', Full HD+",
+        "os": "Android 8.1 (Oreo)",
+        "camara": "12 MP và 5 MP (2 camera)",
+        "camaraFront": "13 MP",
+        "cpu": "Qualcomm Snapdragon 636 8 nhân",
+        "ram": "4 GB",
+        "rom": "64 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 128 GB",
+        "battery": "4000 mAh, có sạc nhanh"
+    },
+    "masp": "Xia2"
+}, {
+    "name": "Redmi Note 11R",
+    "company": "Xiaomi",
+    "img": "img/products/xiaomi/Redmi-Note-11R.jpg",
+    "price": "9.690.000",
+    "star": 4,
+    "rateCount": 372,
+    "promo": {
+        "name": "moiramat",
+        "value": ""
+    },
+    "detail": {
+        "screen": "IPS LCD, 5.99', Full HD+",
+        "os": "Android 8.1 (Oreo)",
+        "camara": "12 MP và 5 MP (2 camera)",
+        "camaraFront": "13 MP",
+        "cpu": "Qualcomm Snapdragon 636 8 nhân",
+        "ram": "4 GB",
+        "rom": "64 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 128 GB",
+        "battery": "4000 mAh, có sạc nhanh"
+    },
+    "masp": "Xia2"
+}, {
+    "name": "Redmi Note 11R",
+    "company": "Xiaomi",
+    "img": "img/products/xiaomi/Redmi-Note-11R.jpg",
+    "price": "9.690.000",
+    "star": 4,
+    "rateCount": 372,
+    "promo": {
+        "name": "moiramat",
+        "value": ""
+    },
+    "detail": {
+        "screen": "IPS LCD, 5.99', Full HD+",
+        "os": "Android 8.1 (Oreo)",
+        "camara": "12 MP và 5 MP (2 camera)",
+        "camaraFront": "13 MP",
+        "cpu": "Qualcomm Snapdragon 636 8 nhân",
+        "ram": "4 GB",
+        "rom": "64 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 128 GB",
+        "battery": "4000 mAh, có sạc nhanh"
+    },
+    "masp": "Xia2"
+}, {
+    "name": "Redmi Note 11R",
+    "company": "Xiaomi",
+    "img": "img/products/xiaomi/Redmi-Note-11R.jpg",
+    "price": "9.690.000",
+    "star": 4,
+    "rateCount": 372,
+    "promo": {
+        "name": "moiramat",
+        "value": ""
+    },
+    "detail": {
+        "screen": "IPS LCD, 5.99', Full HD+",
+        "os": "Android 8.1 (Oreo)",
+        "camara": "12 MP và 5 MP (2 camera)",
+        "camaraFront": "13 MP",
+        "cpu": "Qualcomm Snapdragon 636 8 nhân",
+        "ram": "4 GB",
+        "rom": "64 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 128 GB",
+        "battery": "4000 mAh, có sạc nhanh"
+    },
+    "masp": "Xia2"
 }
 ]
