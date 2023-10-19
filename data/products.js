@@ -2182,5 +2182,143 @@ var list_products = [{
         "battery": "3500 mAh"
     },
     "masp": "Rea9"
+}, {
+    "name": "vivo Y02s 3G 32G",
+    "company": "Vivo",
+    "img": "img/products/vivo/vivo-Y02s-3G-32GB.jpg",
+    "price": "7.490.000",
+    "star": 5,
+    "rateCount": 168,
+    "promo": {
+        "name": "giamgia",
+        "value": "800.000"
+    },
+    "detail": {
+        "screen": "IPS LCD, 6.3', Full HD+",
+        "os": "Android 8.1 (Oreo)",
+        "camara": "16 MP và 5 MP (2 camera)",
+        "camaraFront": "24 MP",
+        "cpu": "Snapdragon 626 8 nhân 64-bit",
+        "ram": "4 GB",
+        "rom": "64 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
+        "battery": "3260 mAh"
+    },
+    "masp": "Viv4"
+}, {
+    "name": "vivo Y16 8GB 128GB",
+    "company": "Vivo",
+    "img": "img/products/vivo/vivo-Y16-4GB-128GB.jpg",
+    "price": "6.490.000",
+    "star": 5,
+    "rateCount": 168,
+    "promo": {
+        "name": "giamgia",
+        "value": "800.000"
+    },
+    "detail": {
+        "screen": "IPS LCD, 6.3', Full HD+",
+        "os": "Android 8.1 (Oreo)",
+        "camara": "16 MP và 5 MP (2 camera)",
+        "camaraFront": "24 MP",
+        "cpu": "Snapdragon 626 8 nhân 64-bit",
+        "ram": "4 GB",
+        "rom": "64 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
+        "battery": "3260 mAh"
+    },
+    "masp": "Viv5"
+}, {
+    "name": "vivo Y17s 8GB 128GB",
+    "company": "Vivo",
+    "img": "img/products/vivo/vivo-Y17s-4GB-128GB.jpg",
+    "price": "10.490.000",
+    "star": 5,
+    "rateCount": 168,
+    "promo": {
+        "name": "giamgia",
+        "value": "800.000"
+    },
+    "detail": {
+        "screen": "IPS LCD, 6.3', Full HD+",
+        "os": "Android 8.1 (Oreo)",
+        "camara": "16 MP và 5 MP (2 camera)",
+        "camaraFront": "24 MP",
+        "cpu": "Snapdragon 626 8 nhân 64-bit",
+        "ram": "4 GB",
+        "rom": "64 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
+        "battery": "3260 mAh"
+    },
+    "masp": "Viv6"
+}, {
+    "name": "vivo Y22S 8GB 128GB",
+    "company": "Vivo",
+    "img": "img/products/vivo/vivo-Y22S-8GB-128GB.jpg",
+    "price": "9.490.000",
+    "star": 5,
+    "rateCount": 168,
+    "promo": {
+        "name": "giamgia",
+        "value": "800.000"
+    },
+    "detail": {
+        "screen": "IPS LCD, 6.3', Full HD+",
+        "os": "Android 8.1 (Oreo)",
+        "camara": "16 MP và 5 MP (2 camera)",
+        "camaraFront": "24 MP",
+        "cpu": "Snapdragon 626 8 nhân 64-bit",
+        "ram": "4 GB",
+        "rom": "64 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
+        "battery": "3260 mAh"
+    },
+    "masp": "Viv7"
+}, {
+    "name": "vivo Y35 Pro 8GB 128GB",
+    "company": "Vivo",
+    "img": "img/products/vivo/vivo-Y35-8GB-128GB.jpg",
+    "price": "8.490.000",
+    "star": 5,
+    "rateCount": 168,
+    "promo": {
+        "name": "giamgia",
+        "value": "800.000"
+    },
+    "detail": {
+        "screen": "IPS LCD, 6.3', Full HD+",
+        "os": "Android 8.1 (Oreo)",
+        "camara": "16 MP và 5 MP (2 camera)",
+        "camaraFront": "24 MP",
+        "cpu": "Snapdragon 626 8 nhân 64-bit",
+        "ram": "4 GB",
+        "rom": "64 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
+        "battery": "3260 mAh"
+    },
+    "masp": "Viv8"
+}, {
+    "name": "vivo Y36 8GB 128GB",
+    "company": "Vivo",
+    "img": "img/products/vivo/Vivo-Y36-8GB-128GB.jpg",
+    "price": "7.490.000",
+    "star": 5,
+    "rateCount": 168,
+    "promo": {
+        "name": "giamgia",
+        "value": "800.000"
+    },
+    "detail": {
+        "screen": "IPS LCD, 6.3', Full HD+",
+        "os": "Android 8.1 (Oreo)",
+        "camara": "16 MP và 5 MP (2 camera)",
+        "camaraFront": "24 MP",
+        "cpu": "Snapdragon 626 8 nhân 64-bit",
+        "ram": "4 GB",
+        "rom": "64 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
+        "battery": "3260 mAh"
+    },
+    "masp": "Viv9"
 }
 ]
